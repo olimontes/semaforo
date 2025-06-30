@@ -1,6 +1,3 @@
-Claro! Vamos entender de forma **bem simples** o que é um **semáforo** e como ele é usado no seu código PHP com os cozinheiros.
-
----
 
 ## 🟢 O que é um **semáforo**?
 
@@ -78,7 +75,3 @@ Sem o semáforo:
 | Criar/obter semáforo    | `sem_get()`     | Cria um semáforo para todos usarem     |
 | Entrar na seção crítica | `sem_acquire()` | Trava o semáforo para acesso exclusivo |
 | Sair da seção crítica   | `sem_release()` | Libera o semáforo para outro processo  |
-
----
-
-Se quiser, posso gerar uma imagem explicando isso como um diagrama visual também. Deseja?
