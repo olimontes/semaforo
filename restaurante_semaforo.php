@@ -94,3 +94,4 @@ foreach ($pedidos_por_cozinheiro as $cozinheiro => $pedidos) {
 shm_remove($shm_id);
 sem_remove($sem_id);
 
+?>

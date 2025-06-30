@@ -1,0 +1,10 @@
+{
+  "name": "PHP com pcntl e sysv",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "features": {},
+  "extensions": [],
+  "postCreateCommand": "php -m"
+}
