@@ -1,0 +1,10 @@
+{
+  "name": "Ambiente PHP com Extensões no Codespaces",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "php -v && php -m | grep -E 'pcntl|sysv'",
+  "features": {},
+  "extensions": [],
+  "settings": {}
+}
