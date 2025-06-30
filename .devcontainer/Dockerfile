@@ -1,8 +1,18 @@
-# Imagem oficial da Microsoft com PHP 8.2 + ambiente Codespaces completo
-FROM mcr.microsoft.com/devcontainers/php:0-8.2
+FROM php:8.2-cli
 
-# Instala extensões PHP necessárias (processos, semáforos, memória compartilhada)
-RUN install-php-extensions pcntl sysvshm sysvsem
+# Instala extensões e ferramentas
+RUN apt-get update && apt-get install -y \
+    git \
+    unzip \
+    zip \
+    vim \
+    nano \
+    libtool \
+    libxml2-dev \
+    libcurl4-openssl-dev \
+    libssl-dev \
+    pkg-config \
+    && docker-php-ext-install pcntl sysvsem sysvshm
 
-# Define o fuso horário
+# Ajuste de timezone e permissão (opcional)
 ENV TZ=America/Sao_Paulo
