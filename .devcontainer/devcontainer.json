@@ -1,10 +1,10 @@
 {
-  "name": "PHP com pcntl e sysv",
+  "name": "PHP + Extensões no Codespace Padrão",
   "build": {
     "dockerfile": "Dockerfile"
   },
-  "settings": {},
+  "postCreateCommand": "php -m | grep -E 'pcntl|sysvshm|sysvsem'",
   "features": {},
   "extensions": [],
-  "postCreateCommand": "php -m"
+  "settings": {}
 }
