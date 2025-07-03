@@ -1,0 +1,2250 @@
+=== EXECUÇÃO 1 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=5
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=6
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=7
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=8
+Cozinheiro 2 terminou pedido=8
+Cozinheiro 2 preparando pedido=9
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=10
+Cozinheiro 4 terminou pedido=6
+Cozinheiro 4 preparando pedido=11
+Cozinheiro 0 terminou pedido=7
+Cozinheiro 0 preparando pedido=12
+Cozinheiro 3 terminou pedido=5
+Cozinheiro 3 preparando pedido=13
+Cozinheiro 2 terminou pedido=9
+Cozinheiro 2 preparando pedido=14
+Cozinheiro 0 terminou pedido=12
+Cozinheiro 0 preparando pedido=15
+Cozinheiro 4 terminou pedido=11
+Cozinheiro 4 preparando pedido=16
+Cozinheiro 2 terminou pedido=14
+Cozinheiro 2 preparando pedido=17
+Cozinheiro 4 terminou pedido=16
+Cozinheiro 4 preparando pedido=18
+Cozinheiro 1 terminou pedido=10
+Cozinheiro 1 preparando pedido=19
+Cozinheiro 3 terminou pedido=13
+Cozinheiro 3 preparando pedido=20
+Cozinheiro 4 terminou pedido=18
+Cozinheiro 4 preparando pedido=21
+Cozinheiro 2 terminou pedido=17
+Cozinheiro 2 preparando pedido=22
+Cozinheiro 1 terminou pedido=19
+Cozinheiro 1 preparando pedido=23
+Cozinheiro 0 terminou pedido=15
+Cozinheiro 0 preparando pedido=24
+Cozinheiro 3 terminou pedido=20
+Cozinheiro 3 preparando pedido=25
+Cozinheiro 1 terminou pedido=23
+Cozinheiro 1 preparando pedido=26
+Cozinheiro 0 terminou pedido=24
+Cozinheiro 0 preparando pedido=27
+Cozinheiro 2 terminou pedido=22
+Cozinheiro 2 preparando pedido=28
+Cozinheiro 4 terminou pedido=21
+Cozinheiro 4 preparando pedido=29
+Cozinheiro 3 terminou pedido=25
+Cozinheiro 3 preparando pedido=30
+Cozinheiro 0 terminou pedido=27
+Cozinheiro 0 preparando pedido=31
+Cozinheiro 1 terminou pedido=26
+Cozinheiro 1 preparando pedido=32
+Cozinheiro 4 terminou pedido=29
+Cozinheiro 4 preparando pedido=33
+Cozinheiro 2 terminou pedido=28
+Cozinheiro 2 preparando pedido=34
+Cozinheiro 3 terminou pedido=30
+Cozinheiro 3 preparando pedido=35
+Cozinheiro 1 terminou pedido=32
+Cozinheiro 1 preparando pedido=36
+Cozinheiro 0 terminou pedido=31
+Cozinheiro 0 preparando pedido=37
+Cozinheiro 4 terminou pedido=33
+Cozinheiro 4 preparando pedido=38
+Cozinheiro 1 terminou pedido=36
+Cozinheiro 1 preparando pedido=39
+Cozinheiro 2 terminou pedido=34
+Cozinheiro 2 preparando pedido=40
+Cozinheiro 3 terminou pedido=35
+Cozinheiro 3 preparando pedido=41
+Cozinheiro 4 terminou pedido=38
+Cozinheiro 4 preparando pedido=42
+Cozinheiro 2 terminou pedido=40
+Cozinheiro 2 preparando pedido=43
+Cozinheiro 0 terminou pedido=37
+Cozinheiro 0 preparando pedido=44
+Cozinheiro 2 terminou pedido=43
+Cozinheiro 2 preparando pedido=45
+Cozinheiro 1 terminou pedido=39
+Cozinheiro 1 preparando pedido=46
+Cozinheiro 3 terminou pedido=41
+Cozinheiro 3 preparando pedido=47
+Cozinheiro 4 terminou pedido=42
+Cozinheiro 4 preparando pedido=48
+Cozinheiro 2 terminou pedido=45
+Cozinheiro 2 preparando pedido=49
+Cozinheiro 4 terminou pedido=48
+Cozinheiro 4 preparando pedido=50
+Cozinheiro 4 terminou pedido=50
+Cozinheiro 4 preparando pedido=51
+Cozinheiro 0 terminou pedido=44
+Cozinheiro 0 preparando pedido=52
+Cozinheiro 1 terminou pedido=46
+Cozinheiro 1 preparando pedido=53
+Cozinheiro 3 terminou pedido=47
+Cozinheiro 3 preparando pedido=54
+Cozinheiro 2 terminou pedido=49
+Cozinheiro 2 preparando pedido=55
+Cozinheiro 0 terminou pedido=52
+Cozinheiro 0 preparando pedido=56
+Cozinheiro 1 terminou pedido=53
+Cozinheiro 1 preparando pedido=57
+Cozinheiro 3 terminou pedido=54
+Cozinheiro 3 preparando pedido=58
+Cozinheiro 4 terminou pedido=51
+Cozinheiro 4 preparando pedido=59
+Cozinheiro 0 terminou pedido=56
+Cozinheiro 0 preparando pedido=60
+Cozinheiro 4 terminou pedido=59
+Cozinheiro 4 preparando pedido=61
+Cozinheiro 1 terminou pedido=57
+Cozinheiro 1 preparando pedido=62
+Cozinheiro 2 terminou pedido=55
+Cozinheiro 2 preparando pedido=63
+Cozinheiro 0 terminou pedido=60
+Cozinheiro 0 preparando pedido=64
+Cozinheiro 4 terminou pedido=61
+Cozinheiro 4 preparando pedido=65
+Cozinheiro 0 terminou pedido=64
+Cozinheiro 0 preparando pedido=66
+Cozinheiro 3 terminou pedido=58
+Cozinheiro 3 preparando pedido=67
+Cozinheiro 1 terminou pedido=62
+Cozinheiro 1 preparando pedido=68
+Cozinheiro 2 terminou pedido=63
+Cozinheiro 2 preparando pedido=69
+Cozinheiro 2 terminou pedido=69
+Cozinheiro 2 preparando pedido=70
+Cozinheiro 4 terminou pedido=65
+Cozinheiro 4 preparando pedido=71
+Cozinheiro 0 terminou pedido=66
+Cozinheiro 0 preparando pedido=72
+Cozinheiro 1 terminou pedido=68
+Cozinheiro 1 preparando pedido=73
+Cozinheiro 3 terminou pedido=67
+Cozinheiro 3 preparando pedido=74
+Cozinheiro 3 terminou pedido=74
+Cozinheiro 3 preparando pedido=75
+Cozinheiro 0 terminou pedido=72
+Cozinheiro 0 preparando pedido=76
+Cozinheiro 2 terminou pedido=70
+Cozinheiro 2 preparando pedido=77
+Cozinheiro 4 terminou pedido=71
+Cozinheiro 4 preparando pedido=78
+Cozinheiro 1 terminou pedido=73
+Cozinheiro 1 preparando pedido=79
+Cozinheiro 3 terminou pedido=75
+Cozinheiro 3 preparando pedido=80
+Cozinheiro 0 terminou pedido=76
+Cozinheiro 0 preparando pedido=81
+Cozinheiro 2 terminou pedido=77
+Cozinheiro 2 preparando pedido=82
+Cozinheiro 4 terminou pedido=78
+Cozinheiro 4 preparando pedido=83
+Cozinheiro 3 terminou pedido=80
+Cozinheiro 3 preparando pedido=84
+Cozinheiro 1 terminou pedido=79
+Cozinheiro 1 preparando pedido=85
+Cozinheiro 0 terminou pedido=81
+Cozinheiro 0 preparando pedido=86
+Cozinheiro 1 terminou pedido=85
+Cozinheiro 1 preparando pedido=87
+Cozinheiro 0 terminou pedido=86
+Cozinheiro 0 preparando pedido=88
+Cozinheiro 4 terminou pedido=83
+Cozinheiro 4 preparando pedido=89
+Cozinheiro 3 terminou pedido=84
+Cozinheiro 3 preparando pedido=90
+Cozinheiro 4 terminou pedido=89
+Cozinheiro 4 preparando pedido=91
+Cozinheiro 2 terminou pedido=82
+Cozinheiro 2 preparando pedido=92
+Cozinheiro 1 terminou pedido=87
+Cozinheiro 1 preparando pedido=93
+Cozinheiro 0 terminou pedido=88
+Cozinheiro 0 preparando pedido=94
+Cozinheiro 3 terminou pedido=90
+Cozinheiro 3 preparando pedido=95
+Cozinheiro 2 terminou pedido=92
+Cozinheiro 2 preparando pedido=96
+Cozinheiro 4 terminou pedido=91
+Cozinheiro 4 preparando pedido=97
+Cozinheiro 2 terminou pedido=96
+Cozinheiro 2 preparando pedido=98
+Cozinheiro 3 terminou pedido=95
+Cozinheiro 3 preparando pedido=99
+Cozinheiro 4 terminou pedido=97
+Cozinheiro 1 terminou pedido=93
+Cozinheiro 0 terminou pedido=94
+Cozinheiro 3 terminou pedido=99
+Cozinheiro 2 terminou pedido=98
+
+Tempo total: 6.3636620044708 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 7, 12, 15, 24, 27, 31, 37, 44, 52, 56, 60, 64, 66, 72, 76, 81, 86, 88, 94
+Cozinheiro 1 atendeu os pedidos: 1, 10, 19, 23, 26, 32, 36, 39, 46, 53, 57, 62, 68, 73, 79, 85, 87, 93
+Cozinheiro 2 atendeu os pedidos: 2, 8, 9, 14, 17, 22, 28, 34, 40, 43, 45, 49, 55, 63, 69, 70, 77, 82, 92, 96, 98
+Cozinheiro 3 atendeu os pedidos: 3, 5, 13, 20, 25, 30, 35, 41, 47, 54, 58, 67, 74, 75, 80, 84, 90, 95, 99
+Cozinheiro 4 atendeu os pedidos: 4, 6, 11, 16, 18, 21, 29, 33, 38, 42, 48, 50, 51, 59, 61, 65, 71, 78, 83, 89, 91, 97
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 2 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=6
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 1 preparando pedido=7
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=8
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=9
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=10
+Cozinheiro 0 terminou pedido=8
+Cozinheiro 0 preparando pedido=11
+Cozinheiro 1 terminou pedido=7
+Cozinheiro 1 preparando pedido=12
+Cozinheiro 4 terminou pedido=6
+Cozinheiro 4 preparando pedido=13
+Cozinheiro 3 terminou pedido=10
+Cozinheiro 3 preparando pedido=14
+Cozinheiro 0 terminou pedido=11
+Cozinheiro 0 preparando pedido=15
+Cozinheiro 0 terminou pedido=15
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 2 terminou pedido=9
+Cozinheiro 2 preparando pedido=17
+Cozinheiro 4 terminou pedido=13
+Cozinheiro 4 preparando pedido=18
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0 preparando pedido=19
+Cozinheiro 1 terminou pedido=12
+Cozinheiro 1 preparando pedido=20
+Cozinheiro 1 terminou pedido=20
+Cozinheiro 1 preparando pedido=21
+Cozinheiro 3 terminou pedido=14
+Cozinheiro 3 preparando pedido=22
+Cozinheiro 1 terminou pedido=21
+Cozinheiro 1 preparando pedido=23
+Cozinheiro 2 terminou pedido=17
+Cozinheiro 2 preparando pedido=24
+Cozinheiro 4 terminou pedido=18
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 0 terminou pedido=19
+Cozinheiro 0 preparando pedido=26
+Cozinheiro 3 terminou pedido=22
+Cozinheiro 3 preparando pedido=27
+Cozinheiro 1 terminou pedido=23
+Cozinheiro 1 preparando pedido=28
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4 preparando pedido=29
+Cozinheiro 4 terminou pedido=29
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 2 terminou pedido=24
+Cozinheiro 2 preparando pedido=31
+Cozinheiro 1 terminou pedido=28
+Cozinheiro 1 preparando pedido=32
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4 preparando pedido=33
+Cozinheiro 3 terminou pedido=27
+Cozinheiro 0 terminou pedido=26
+Cozinheiro 3 preparando pedido=34
+Cozinheiro 0 preparando pedido=35
+Cozinheiro 4 terminou pedido=33
+Cozinheiro 4 preparando pedido=36
+Cozinheiro 1 terminou pedido=32
+Cozinheiro 1 preparando pedido=37
+Cozinheiro 3 terminou pedido=34
+Cozinheiro 3 preparando pedido=38
+Cozinheiro 1 terminou pedido=37
+Cozinheiro 1 preparando pedido=39
+Cozinheiro 2 terminou pedido=31
+Cozinheiro 2 preparando pedido=40
+Cozinheiro 0 terminou pedido=35
+Cozinheiro 0 preparando pedido=41
+Cozinheiro 3 terminou pedido=38
+Cozinheiro 3 preparando pedido=42
+Cozinheiro 1 terminou pedido=39
+Cozinheiro 1 preparando pedido=43
+Cozinheiro 4 terminou pedido=36
+Cozinheiro 4 preparando pedido=44
+Cozinheiro 2 terminou pedido=40
+Cozinheiro 2 preparando pedido=45
+Cozinheiro 0 terminou pedido=41
+Cozinheiro 0 preparando pedido=46
+Cozinheiro 3 terminou pedido=42
+Cozinheiro 3 preparando pedido=47
+Cozinheiro 4 terminou pedido=44
+Cozinheiro 4 preparando pedido=48
+Cozinheiro 3 terminou pedido=47
+Cozinheiro 3 preparando pedido=49
+Cozinheiro 1 terminou pedido=43
+Cozinheiro 1 preparando pedido=50
+Cozinheiro 0 terminou pedido=46
+Cozinheiro 0 preparando pedido=51
+Cozinheiro 2 terminou pedido=45
+Cozinheiro 2 preparando pedido=52
+Cozinheiro 0 terminou pedido=51
+Cozinheiro 0 preparando pedido=53
+Cozinheiro 3 terminou pedido=49
+Cozinheiro 3 preparando pedido=54
+Cozinheiro 4 terminou pedido=48
+Cozinheiro 4 preparando pedido=55
+Cozinheiro 1 terminou pedido=50
+Cozinheiro 1 preparando pedido=56
+Cozinheiro 2 terminou pedido=52
+Cozinheiro 2 preparando pedido=57
+Cozinheiro 0 terminou pedido=53
+Cozinheiro 0 preparando pedido=58
+Cozinheiro 3 terminou pedido=54
+Cozinheiro 3 preparando pedido=59
+Cozinheiro 4 terminou pedido=55
+Cozinheiro 4 preparando pedido=60
+Cozinheiro 1 terminou pedido=56
+Cozinheiro 1 preparando pedido=61
+Cozinheiro 0 terminou pedido=58
+Cozinheiro 0 preparando pedido=62
+Cozinheiro 2 terminou pedido=57
+Cozinheiro 2 preparando pedido=63
+Cozinheiro 3 terminou pedido=59
+Cozinheiro 3 preparando pedido=64
+Cozinheiro 2 terminou pedido=63
+Cozinheiro 2 preparando pedido=65
+Cozinheiro 4 terminou pedido=60
+Cozinheiro 4 preparando pedido=66
+Cozinheiro 1 terminou pedido=61
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 0 terminou pedido=62
+Cozinheiro 0 preparando pedido=68
+Cozinheiro 2 terminou pedido=65
+Cozinheiro 2 preparando pedido=69
+Cozinheiro 3 terminou pedido=64
+Cozinheiro 3 preparando pedido=70
+Cozinheiro 4 terminou pedido=66
+Cozinheiro 4 preparando pedido=71
+Cozinheiro 2 terminou pedido=69
+Cozinheiro 2 preparando pedido=72
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 1 preparando pedido=73
+Cozinheiro 2 terminou pedido=72
+Cozinheiro 2 preparando pedido=74
+Cozinheiro 0 terminou pedido=68
+Cozinheiro 0 preparando pedido=75
+Cozinheiro 3 terminou pedido=70
+Cozinheiro 3 preparando pedido=76
+Cozinheiro 4 terminou pedido=71
+Cozinheiro 4 preparando pedido=77
+Cozinheiro 2 terminou pedido=74
+Cozinheiro 2 preparando pedido=78
+Cozinheiro 0 terminou pedido=75
+Cozinheiro 0 preparando pedido=79
+Cozinheiro 1 terminou pedido=73
+Cozinheiro 1 preparando pedido=80
+Cozinheiro 3 terminou pedido=76
+Cozinheiro 3 preparando pedido=81
+Cozinheiro 2 terminou pedido=78
+Cozinheiro 2 preparando pedido=82
+Cozinheiro 0 terminou pedido=79
+Cozinheiro 0 preparando pedido=83
+Cozinheiro 3 terminou pedido=81
+Cozinheiro 3 preparando pedido=84
+Cozinheiro 4 terminou pedido=77
+Cozinheiro 4 preparando pedido=85
+Cozinheiro 1 terminou pedido=80
+Cozinheiro 1 preparando pedido=86
+Cozinheiro 3 terminou pedido=84
+Cozinheiro 3 preparando pedido=87
+Cozinheiro 4 terminou pedido=85
+Cozinheiro 4 preparando pedido=88
+Cozinheiro 0 terminou pedido=83
+Cozinheiro 0 preparando pedido=89
+Cozinheiro 2 terminou pedido=82
+Cozinheiro 2 preparando pedido=90
+Cozinheiro 1 terminou pedido=86
+Cozinheiro 1 preparando pedido=91
+Cozinheiro 4 terminou pedido=88
+Cozinheiro 4 preparando pedido=92
+Cozinheiro 0 terminou pedido=89
+Cozinheiro 0 preparando pedido=93
+Cozinheiro 4 terminou pedido=92
+Cozinheiro 4 preparando pedido=94
+Cozinheiro 3 terminou pedido=87
+Cozinheiro 3 preparando pedido=95
+Cozinheiro 2 terminou pedido=90
+Cozinheiro 2 preparando pedido=96
+Cozinheiro 0 terminou pedido=93
+Cozinheiro 0 preparando pedido=97
+Cozinheiro 1 terminou pedido=91
+Cozinheiro 1 preparando pedido=98
+Cozinheiro 4 terminou pedido=94
+Cozinheiro 4 preparando pedido=99
+Cozinheiro 2 terminou pedido=96
+Cozinheiro 4 terminou pedido=99
+Cozinheiro 3 terminou pedido=95
+Cozinheiro 1 terminou pedido=98
+Cozinheiro 0 terminou pedido=97
+
+Tempo total: 6.211226940155 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 8, 11, 15, 16, 19, 26, 35, 41, 46, 51, 53, 58, 62, 68, 75, 79, 83, 89, 93, 97
+Cozinheiro 1 atendeu os pedidos: 1, 5, 7, 12, 20, 21, 23, 28, 32, 37, 39, 43, 50, 56, 61, 67, 73, 80, 86, 91, 98
+Cozinheiro 2 atendeu os pedidos: 2, 9, 17, 24, 31, 40, 45, 52, 57, 63, 65, 69, 72, 74, 78, 82, 90, 96
+Cozinheiro 3 atendeu os pedidos: 3, 10, 14, 22, 27, 34, 38, 42, 47, 49, 54, 59, 64, 70, 76, 81, 84, 87, 95
+Cozinheiro 4 atendeu os pedidos: 4, 6, 13, 18, 25, 29, 30, 33, 36, 44, 48, 55, 60, 66, 71, 77, 85, 88, 92, 94, 99
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 3 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=6
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=7
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=8
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 1 preparando pedido=9
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=10
+Cozinheiro 0 terminou pedido=7
+Cozinheiro 0 preparando pedido=11
+Cozinheiro 2 terminou pedido=6
+Cozinheiro 2 preparando pedido=12
+Cozinheiro 4 terminou pedido=8
+Cozinheiro 4 preparando pedido=13
+Cozinheiro 1 terminou pedido=9
+Cozinheiro 1 preparando pedido=14
+Cozinheiro 3 terminou pedido=10
+Cozinheiro 3 preparando pedido=15
+Cozinheiro 0 terminou pedido=11
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 4 terminou pedido=13
+Cozinheiro 4 preparando pedido=17
+Cozinheiro 2 terminou pedido=12
+Cozinheiro 2 preparando pedido=18
+Cozinheiro 1 terminou pedido=14
+Cozinheiro 1 preparando pedido=19
+Cozinheiro 4 terminou pedido=17
+Cozinheiro 4 preparando pedido=20
+Cozinheiro 1 terminou pedido=19
+Cozinheiro 1 preparando pedido=21
+Cozinheiro 3 terminou pedido=15
+Cozinheiro 3 preparando pedido=22
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0 preparando pedido=23
+Cozinheiro 2 terminou pedido=18
+Cozinheiro 2 preparando pedido=24
+Cozinheiro 4 terminou pedido=20
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 3 terminou pedido=22
+Cozinheiro 3 preparando pedido=26
+Cozinheiro 1 terminou pedido=21
+Cozinheiro 1 preparando pedido=27
+Cozinheiro 2 terminou pedido=24
+Cozinheiro 2 preparando pedido=28
+Cozinheiro 0 terminou pedido=23
+Cozinheiro 0 preparando pedido=29
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 1 terminou pedido=27
+Cozinheiro 1 preparando pedido=31
+Cozinheiro 3 terminou pedido=26
+Cozinheiro 3 preparando pedido=32
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4 preparando pedido=33
+Cozinheiro 0 terminou pedido=29
+Cozinheiro 0 preparando pedido=34
+Cozinheiro 2 terminou pedido=28
+Cozinheiro 2 preparando pedido=35
+Cozinheiro 1 terminou pedido=31
+Cozinheiro 1 preparando pedido=36
+Cozinheiro 4 terminou pedido=33
+Cozinheiro 4 preparando pedido=37
+Cozinheiro 3 terminou pedido=32
+Cozinheiro 3 preparando pedido=38
+Cozinheiro 0 terminou pedido=34
+Cozinheiro 0 preparando pedido=39
+Cozinheiro 2 terminou pedido=35
+Cozinheiro 2 preparando pedido=40
+Cozinheiro 2 terminou pedido=40
+Cozinheiro 2 preparando pedido=41
+Cozinheiro 4 terminou pedido=37
+Cozinheiro 4 preparando pedido=42
+Cozinheiro 3 terminou pedido=38
+Cozinheiro 3 preparando pedido=43
+Cozinheiro 1 terminou pedido=36
+Cozinheiro 1 preparando pedido=44
+Cozinheiro 0 terminou pedido=39
+Cozinheiro 0 preparando pedido=45
+Cozinheiro 2 terminou pedido=41
+Cozinheiro 2 preparando pedido=46
+Cozinheiro 4 terminou pedido=42
+Cozinheiro 4 preparando pedido=47
+Cozinheiro 2 terminou pedido=46
+Cozinheiro 2 preparando pedido=48
+Cozinheiro 3 terminou pedido=43
+Cozinheiro 3 preparando pedido=49
+Cozinheiro 2 terminou pedido=48
+Cozinheiro 2 preparando pedido=50
+Cozinheiro 1 terminou pedido=44
+Cozinheiro 1 preparando pedido=51
+Cozinheiro 0 terminou pedido=45
+Cozinheiro 0 preparando pedido=52
+Cozinheiro 4 terminou pedido=47
+Cozinheiro 4 preparando pedido=53
+Cozinheiro 3 terminou pedido=49
+Cozinheiro 3 preparando pedido=54
+Cozinheiro 1 terminou pedido=51
+Cozinheiro 1 preparando pedido=55
+Cozinheiro 2 terminou pedido=50
+Cozinheiro 2 preparando pedido=56
+Cozinheiro 0 terminou pedido=52
+Cozinheiro 0 preparando pedido=57
+Cozinheiro 4 terminou pedido=53
+Cozinheiro 4 preparando pedido=58
+Cozinheiro 0 terminou pedido=57
+Cozinheiro 0 preparando pedido=59
+Cozinheiro 2 terminou pedido=56
+Cozinheiro 2 preparando pedido=60
+Cozinheiro 1 terminou pedido=55
+Cozinheiro 1 preparando pedido=61
+Cozinheiro 4 terminou pedido=58
+Cozinheiro 4 preparando pedido=62
+Cozinheiro 3 terminou pedido=54
+Cozinheiro 3 preparando pedido=63
+Cozinheiro 0 terminou pedido=59
+Cozinheiro 0 preparando pedido=64
+Cozinheiro 2 terminou pedido=60
+Cozinheiro 2 preparando pedido=65
+Cozinheiro 4 terminou pedido=62
+Cozinheiro 4 preparando pedido=66
+Cozinheiro 1 terminou pedido=61
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 3 terminou pedido=63
+Cozinheiro 3 preparando pedido=68
+Cozinheiro 0 terminou pedido=64
+Cozinheiro 0 preparando pedido=69
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 1 preparando pedido=70
+Cozinheiro 3 terminou pedido=68
+Cozinheiro 3 preparando pedido=71
+Cozinheiro 2 terminou pedido=65
+Cozinheiro 2 preparando pedido=72
+Cozinheiro 4 terminou pedido=66
+Cozinheiro 4 preparando pedido=73
+Cozinheiro 1 terminou pedido=70
+Cozinheiro 1 preparando pedido=74
+Cozinheiro 3 terminou pedido=71
+Cozinheiro 3 preparando pedido=75
+Cozinheiro 0 terminou pedido=69
+Cozinheiro 0 preparando pedido=76
+Cozinheiro 3 terminou pedido=75
+Cozinheiro 3 preparando pedido=77
+Cozinheiro 4 terminou pedido=73
+Cozinheiro 4 preparando pedido=78
+Cozinheiro 2 terminou pedido=72
+Cozinheiro 2 preparando pedido=79
+Cozinheiro 4 terminou pedido=78
+Cozinheiro 4 preparando pedido=80
+Cozinheiro 1 terminou pedido=74
+Cozinheiro 1 preparando pedido=81
+Cozinheiro 0 terminou pedido=76
+Cozinheiro 0 preparando pedido=82
+Cozinheiro 3 terminou pedido=77
+Cozinheiro 3 preparando pedido=83
+Cozinheiro 4 terminou pedido=80
+Cozinheiro 4 preparando pedido=84
+Cozinheiro 2 terminou pedido=79
+Cozinheiro 2 preparando pedido=85
+Cozinheiro 1 terminou pedido=81
+Cozinheiro 1 preparando pedido=86
+Cozinheiro 0 terminou pedido=82
+Cozinheiro 1 terminou pedido=86
+Cozinheiro 0 preparando pedido=87
+Cozinheiro 1 preparando pedido=88
+Cozinheiro 2 terminou pedido=85
+Cozinheiro 2 preparando pedido=89
+Cozinheiro 3 terminou pedido=83
+Cozinheiro 3 preparando pedido=90
+Cozinheiro 4 terminou pedido=84
+Cozinheiro 4 preparando pedido=91
+Cozinheiro 3 terminou pedido=90
+Cozinheiro 3 preparando pedido=92
+Cozinheiro 0 terminou pedido=87
+Cozinheiro 0 preparando pedido=93
+Cozinheiro 4 terminou pedido=91
+Cozinheiro 4 preparando pedido=94
+Cozinheiro 2 terminou pedido=89
+Cozinheiro 2 preparando pedido=95
+Cozinheiro 1 terminou pedido=88
+Cozinheiro 1 preparando pedido=96
+Cozinheiro 0 terminou pedido=93
+Cozinheiro 0 preparando pedido=97
+Cozinheiro 4 terminou pedido=94
+Cozinheiro 4 preparando pedido=98
+Cozinheiro 2 terminou pedido=95
+Cozinheiro 2 preparando pedido=99
+Cozinheiro 3 terminou pedido=92
+Cozinheiro 1 terminou pedido=96
+Cozinheiro 2 terminou pedido=99
+Cozinheiro 4 terminou pedido=98
+Cozinheiro 0 terminou pedido=97
+
+Tempo total: 6.3575301170349 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 7, 11, 16, 23, 29, 34, 39, 45, 52, 57, 59, 64, 69, 76, 82, 87, 93, 97
+Cozinheiro 1 atendeu os pedidos: 1, 5, 9, 14, 19, 21, 27, 31, 36, 44, 51, 55, 61, 67, 70, 74, 81, 86, 88, 96
+Cozinheiro 2 atendeu os pedidos: 2, 6, 12, 18, 24, 28, 35, 40, 41, 46, 48, 50, 56, 60, 65, 72, 79, 85, 89, 95, 99
+Cozinheiro 3 atendeu os pedidos: 3, 10, 15, 22, 26, 32, 38, 43, 49, 54, 63, 68, 71, 75, 77, 83, 90, 92
+Cozinheiro 4 atendeu os pedidos: 4, 8, 13, 17, 20, 25, 30, 33, 37, 42, 47, 53, 58, 62, 66, 73, 78, 80, 84, 91, 94, 98
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 4 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=5
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=6
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=7
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=8
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=9
+Cozinheiro 4 terminou pedido=6
+Cozinheiro 4 preparando pedido=10
+Cozinheiro 3 terminou pedido=8
+Cozinheiro 3 preparando pedido=11
+Cozinheiro 0 terminou pedido=9
+Cozinheiro 0 preparando pedido=12
+Cozinheiro 3 terminou pedido=11
+Cozinheiro 3 preparando pedido=13
+Cozinheiro 2 terminou pedido=5
+Cozinheiro 2 preparando pedido=14
+Cozinheiro 1 terminou pedido=7
+Cozinheiro 1 preparando pedido=15
+Cozinheiro 4 terminou pedido=10
+Cozinheiro 4 preparando pedido=16
+Cozinheiro 2 terminou pedido=14
+Cozinheiro 2 preparando pedido=17
+Cozinheiro 1 terminou pedido=15
+Cozinheiro 1 preparando pedido=18
+Cozinheiro 4 terminou pedido=16
+Cozinheiro 4 preparando pedido=19
+Cozinheiro 3 terminou pedido=13
+Cozinheiro 3 preparando pedido=20
+Cozinheiro 0 terminou pedido=12
+Cozinheiro 0 preparando pedido=21
+Cozinheiro 4 terminou pedido=19
+Cozinheiro 4 preparando pedido=22
+Cozinheiro 2 terminou pedido=17
+Cozinheiro 2 preparando pedido=23
+Cozinheiro 1 terminou pedido=18
+Cozinheiro 1 preparando pedido=24
+Cozinheiro 4 terminou pedido=22
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 3 terminou pedido=20
+Cozinheiro 3 preparando pedido=26
+Cozinheiro 2 terminou pedido=23
+Cozinheiro 2 preparando pedido=27
+Cozinheiro 0 terminou pedido=21
+Cozinheiro 0 preparando pedido=28
+Cozinheiro 1 terminou pedido=24
+Cozinheiro 1 preparando pedido=29
+Cozinheiro 2 terminou pedido=27
+Cozinheiro 2 preparando pedido=30
+Cozinheiro 3 terminou pedido=26
+Cozinheiro 3 preparando pedido=31
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4 preparando pedido=32
+Cozinheiro 0 terminou pedido=28
+Cozinheiro 0 preparando pedido=33
+Cozinheiro 2 terminou pedido=30
+Cozinheiro 2 preparando pedido=34
+Cozinheiro 1 terminou pedido=29
+Cozinheiro 1 preparando pedido=35
+Cozinheiro 3 terminou pedido=31
+Cozinheiro 3 preparando pedido=36
+Cozinheiro 0 terminou pedido=33
+Cozinheiro 0 preparando pedido=37
+Cozinheiro 1 terminou pedido=35
+Cozinheiro 1 preparando pedido=38
+Cozinheiro 4 terminou pedido=32
+Cozinheiro 4 preparando pedido=39
+Cozinheiro 0 terminou pedido=37
+Cozinheiro 0 preparando pedido=40
+Cozinheiro 2 terminou pedido=34
+Cozinheiro 2 preparando pedido=41
+Cozinheiro 1 terminou pedido=38
+Cozinheiro 1 preparando pedido=42
+Cozinheiro 3 terminou pedido=36
+Cozinheiro 3 preparando pedido=43
+Cozinheiro 0 terminou pedido=40
+Cozinheiro 0 preparando pedido=44
+Cozinheiro 2 terminou pedido=41
+Cozinheiro 2 preparando pedido=45
+Cozinheiro 3 terminou pedido=43
+Cozinheiro 3 preparando pedido=46
+Cozinheiro 1 terminou pedido=42
+Cozinheiro 1 preparando pedido=47
+Cozinheiro 4 terminou pedido=39
+Cozinheiro 4 preparando pedido=48
+Cozinheiro 0 terminou pedido=44
+Cozinheiro 0 preparando pedido=49
+Cozinheiro 3 terminou pedido=46
+Cozinheiro 3 preparando pedido=50
+Cozinheiro 2 terminou pedido=45
+Cozinheiro 2 preparando pedido=51
+Cozinheiro 0 terminou pedido=49
+Cozinheiro 0 preparando pedido=52
+Cozinheiro 4 terminou pedido=48
+Cozinheiro 4 preparando pedido=53
+Cozinheiro 1 terminou pedido=47
+Cozinheiro 1 preparando pedido=54
+Cozinheiro 3 terminou pedido=50
+Cozinheiro 3 preparando pedido=55
+Cozinheiro 4 terminou pedido=53
+Cozinheiro 4 preparando pedido=56
+Cozinheiro 3 terminou pedido=55
+Cozinheiro 3 preparando pedido=57
+Cozinheiro 2 terminou pedido=51
+Cozinheiro 2 preparando pedido=58
+Cozinheiro 0 terminou pedido=52
+Cozinheiro 0 preparando pedido=59
+Cozinheiro 1 terminou pedido=54
+Cozinheiro 1 preparando pedido=60
+Cozinheiro 1 terminou pedido=60
+Cozinheiro 1 preparando pedido=61
+Cozinheiro 3 terminou pedido=57
+Cozinheiro 3 preparando pedido=62
+Cozinheiro 0 terminou pedido=59
+Cozinheiro 0 preparando pedido=63
+Cozinheiro 4 terminou pedido=56
+Cozinheiro 4 preparando pedido=64
+Cozinheiro 3 terminou pedido=62
+Cozinheiro 3 preparando pedido=65
+Cozinheiro 0 terminou pedido=63
+Cozinheiro 0 preparando pedido=66
+Cozinheiro 1 terminou pedido=61
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 2 terminou pedido=58
+Cozinheiro 2 preparando pedido=68
+Cozinheiro 0 terminou pedido=66
+Cozinheiro 0 preparando pedido=69
+Cozinheiro 3 terminou pedido=65
+Cozinheiro 3 preparando pedido=70
+Cozinheiro 0 terminou pedido=69
+Cozinheiro 0 preparando pedido=71
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 1 preparando pedido=72
+Cozinheiro 4 terminou pedido=64
+Cozinheiro 4 preparando pedido=73
+Cozinheiro 3 terminou pedido=70
+Cozinheiro 3 preparando pedido=74
+Cozinheiro 2 terminou pedido=68
+Cozinheiro 2 preparando pedido=75
+Cozinheiro 1 terminou pedido=72
+Cozinheiro 1 preparando pedido=76
+Cozinheiro 0 terminou pedido=71
+Cozinheiro 0 preparando pedido=77
+Cozinheiro 4 terminou pedido=73
+Cozinheiro 4 preparando pedido=78
+Cozinheiro 3 terminou pedido=74
+Cozinheiro 3 preparando pedido=79
+Cozinheiro 2 terminou pedido=75
+Cozinheiro 2 preparando pedido=80
+Cozinheiro 4 terminou pedido=78
+Cozinheiro 4 preparando pedido=81
+Cozinheiro 0 terminou pedido=77
+Cozinheiro 0 preparando pedido=82
+Cozinheiro 1 terminou pedido=76
+Cozinheiro 1 preparando pedido=83
+Cozinheiro 3 terminou pedido=79
+Cozinheiro 3 preparando pedido=84
+Cozinheiro 4 terminou pedido=81
+Cozinheiro 4 preparando pedido=85
+Cozinheiro 2 terminou pedido=80
+Cozinheiro 2 preparando pedido=86
+Cozinheiro 1 terminou pedido=83
+Cozinheiro 1 preparando pedido=87
+Cozinheiro 0 terminou pedido=82
+Cozinheiro 0 preparando pedido=88
+Cozinheiro 3 terminou pedido=84
+Cozinheiro 3 preparando pedido=89
+Cozinheiro 2 terminou pedido=86
+Cozinheiro 2 preparando pedido=90
+Cozinheiro 4 terminou pedido=85
+Cozinheiro 4 preparando pedido=91
+Cozinheiro 0 terminou pedido=88
+Cozinheiro 0 preparando pedido=92
+Cozinheiro 1 terminou pedido=87
+Cozinheiro 1 preparando pedido=93
+Cozinheiro 3 terminou pedido=89
+Cozinheiro 3 preparando pedido=94
+Cozinheiro 2 terminou pedido=90
+Cozinheiro 2 preparando pedido=95
+Cozinheiro 4 terminou pedido=91
+Cozinheiro 4 preparando pedido=96
+Cozinheiro 0 terminou pedido=92
+Cozinheiro 0 preparando pedido=97
+Cozinheiro 1 terminou pedido=93
+Cozinheiro 1 preparando pedido=98
+Cozinheiro 2 terminou pedido=95
+Cozinheiro 2 preparando pedido=99
+Cozinheiro 0 terminou pedido=97
+Cozinheiro 3 terminou pedido=94
+Cozinheiro 4 terminou pedido=96
+Cozinheiro 2 terminou pedido=99
+Cozinheiro 1 terminou pedido=98
+
+Tempo total: 5.9890241622925 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 9, 12, 21, 28, 33, 37, 40, 44, 49, 52, 59, 63, 66, 69, 71, 77, 82, 88, 92, 97
+Cozinheiro 1 atendeu os pedidos: 1, 7, 15, 18, 24, 29, 35, 38, 42, 47, 54, 60, 61, 67, 72, 76, 83, 87, 93, 98
+Cozinheiro 2 atendeu os pedidos: 2, 5, 14, 17, 23, 27, 30, 34, 41, 45, 51, 58, 68, 75, 80, 86, 90, 95, 99
+Cozinheiro 3 atendeu os pedidos: 3, 8, 11, 13, 20, 26, 31, 36, 43, 46, 50, 55, 57, 62, 65, 70, 74, 79, 84, 89, 94
+Cozinheiro 4 atendeu os pedidos: 4, 6, 10, 16, 19, 22, 25, 32, 39, 48, 53, 56, 64, 73, 78, 81, 85, 91, 96
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 5 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=6
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=7
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=8
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=9
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 1 preparando pedido=10
+Cozinheiro 2 terminou pedido=7
+Cozinheiro 2 preparando pedido=11
+Cozinheiro 4 terminou pedido=6
+Cozinheiro 4 preparando pedido=12
+Cozinheiro 0 terminou pedido=8
+Cozinheiro 0 preparando pedido=13
+Cozinheiro 3 terminou pedido=9
+Cozinheiro 3 preparando pedido=14
+Cozinheiro 2 terminou pedido=11
+Cozinheiro 2 preparando pedido=15
+Cozinheiro 0 terminou pedido=13
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 4 terminou pedido=12
+Cozinheiro 4 preparando pedido=17
+Cozinheiro 1 terminou pedido=10
+Cozinheiro 1 preparando pedido=18
+Cozinheiro 3 terminou pedido=14
+Cozinheiro 3 preparando pedido=19
+Cozinheiro 1 terminou pedido=18
+Cozinheiro 1 preparando pedido=20
+Cozinheiro 3 terminou pedido=19
+Cozinheiro 3 preparando pedido=21
+Cozinheiro 4 terminou pedido=17
+Cozinheiro 4 preparando pedido=22
+Cozinheiro 2 terminou pedido=15
+Cozinheiro 2 preparando pedido=23
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0 preparando pedido=24
+Cozinheiro 3 terminou pedido=21
+Cozinheiro 3 preparando pedido=25
+Cozinheiro 1 terminou pedido=20
+Cozinheiro 1 preparando pedido=26
+Cozinheiro 4 terminou pedido=22
+Cozinheiro 4 preparando pedido=27
+Cozinheiro 0 terminou pedido=24
+Cozinheiro 0 preparando pedido=28
+Cozinheiro 2 terminou pedido=23
+Cozinheiro 2 preparando pedido=29
+Cozinheiro 3 terminou pedido=25
+Cozinheiro 3 preparando pedido=30
+Cozinheiro 4 terminou pedido=27
+Cozinheiro 4 preparando pedido=31
+Cozinheiro 1 terminou pedido=26
+Cozinheiro 1 preparando pedido=32
+Cozinheiro 2 terminou pedido=29
+Cozinheiro 2 preparando pedido=33
+Cozinheiro 0 terminou pedido=28
+Cozinheiro 0 preparando pedido=34
+Cozinheiro 0 terminou pedido=34
+Cozinheiro 0 preparando pedido=35
+Cozinheiro 1 terminou pedido=32
+Cozinheiro 1 preparando pedido=36
+Cozinheiro 4 terminou pedido=31
+Cozinheiro 4 preparando pedido=37
+Cozinheiro 3 terminou pedido=30
+Cozinheiro 3 preparando pedido=38
+Cozinheiro 2 terminou pedido=33
+Cozinheiro 2 preparando pedido=39
+Cozinheiro 0 terminou pedido=35
+Cozinheiro 0 preparando pedido=40
+Cozinheiro 4 terminou pedido=37
+Cozinheiro 4 preparando pedido=41
+Cozinheiro 2 terminou pedido=39
+Cozinheiro 2 preparando pedido=42
+Cozinheiro 1 terminou pedido=36
+Cozinheiro 1 preparando pedido=43
+Cozinheiro 0 terminou pedido=40
+Cozinheiro 0 preparando pedido=44
+Cozinheiro 3 terminou pedido=38
+Cozinheiro 3 preparando pedido=45
+Cozinheiro 2 terminou pedido=42
+Cozinheiro 2 preparando pedido=46
+Cozinheiro 4 terminou pedido=41
+Cozinheiro 4 preparando pedido=47
+Cozinheiro 0 terminou pedido=44
+Cozinheiro 0 preparando pedido=48
+Cozinheiro 3 terminou pedido=45
+Cozinheiro 3 preparando pedido=49
+Cozinheiro 1 terminou pedido=43
+Cozinheiro 1 preparando pedido=50
+Cozinheiro 4 terminou pedido=47
+Cozinheiro 4 preparando pedido=51
+Cozinheiro 2 terminou pedido=46
+Cozinheiro 2 preparando pedido=52
+Cozinheiro 1 terminou pedido=50
+Cozinheiro 1 preparando pedido=53
+Cozinheiro 3 terminou pedido=49
+Cozinheiro 3 preparando pedido=54
+Cozinheiro 1 terminou pedido=53
+Cozinheiro 1 preparando pedido=55
+Cozinheiro 2 terminou pedido=52
+Cozinheiro 2 preparando pedido=56
+Cozinheiro 0 terminou pedido=48
+Cozinheiro 0 preparando pedido=57
+Cozinheiro 3 terminou pedido=54
+Cozinheiro 3 preparando pedido=58
+Cozinheiro 2 terminou pedido=56
+Cozinheiro 2 preparando pedido=59
+Cozinheiro 1 terminou pedido=55
+Cozinheiro 1 preparando pedido=60
+Cozinheiro 4 terminou pedido=51
+Cozinheiro 4 preparando pedido=61
+Cozinheiro 0 terminou pedido=57
+Cozinheiro 0 preparando pedido=62
+Cozinheiro 3 terminou pedido=58
+Cozinheiro 3 preparando pedido=63
+Cozinheiro 0 terminou pedido=62
+Cozinheiro 0 preparando pedido=64
+Cozinheiro 4 terminou pedido=61
+Cozinheiro 4 preparando pedido=65
+Cozinheiro 1 terminou pedido=60
+Cozinheiro 1 preparando pedido=66
+Cozinheiro 2 terminou pedido=59
+Cozinheiro 2 preparando pedido=67
+Cozinheiro 3 terminou pedido=63
+Cozinheiro 3 preparando pedido=68
+Cozinheiro 4 terminou pedido=65
+Cozinheiro 4 preparando pedido=69
+Cozinheiro 2 terminou pedido=67
+Cozinheiro 2 preparando pedido=70
+Cozinheiro 0 terminou pedido=64
+Cozinheiro 0 preparando pedido=71
+Cozinheiro 3 terminou pedido=68
+Cozinheiro 3 preparando pedido=72
+Cozinheiro 1 terminou pedido=66
+Cozinheiro 1 preparando pedido=73
+Cozinheiro 2 terminou pedido=70
+Cozinheiro 2 preparando pedido=74
+Cozinheiro 1 terminou pedido=73
+Cozinheiro 1 preparando pedido=75
+Cozinheiro 4 terminou pedido=69
+Cozinheiro 4 preparando pedido=76
+Cozinheiro 3 terminou pedido=72
+Cozinheiro 3 preparando pedido=77
+Cozinheiro 4 terminou pedido=76
+Cozinheiro 4 preparando pedido=78
+Cozinheiro 0 terminou pedido=71
+Cozinheiro 0 preparando pedido=79
+Cozinheiro 1 terminou pedido=75
+Cozinheiro 1 preparando pedido=80
+Cozinheiro 3 terminou pedido=77
+Cozinheiro 3 preparando pedido=81
+Cozinheiro 4 terminou pedido=78
+Cozinheiro 4 preparando pedido=82
+Cozinheiro 1 terminou pedido=80
+Cozinheiro 1 preparando pedido=83
+Cozinheiro 3 terminou pedido=81
+Cozinheiro 2 terminou pedido=74
+Cozinheiro 3 preparando pedido=84
+Cozinheiro 2 preparando pedido=85
+Cozinheiro 0 terminou pedido=79
+Cozinheiro 0 preparando pedido=86
+Cozinheiro 4 terminou pedido=82
+Cozinheiro 4 preparando pedido=87
+Cozinheiro 2 terminou pedido=85
+Cozinheiro 2 preparando pedido=88
+Cozinheiro 1 terminou pedido=83
+Cozinheiro 1 preparando pedido=89
+Cozinheiro 3 terminou pedido=84
+Cozinheiro 3 preparando pedido=90
+Cozinheiro 1 terminou pedido=89
+Cozinheiro 1 preparando pedido=91
+Cozinheiro 2 terminou pedido=88
+Cozinheiro 2 preparando pedido=92
+Cozinheiro 0 terminou pedido=86
+Cozinheiro 0 preparando pedido=93
+Cozinheiro 3 terminou pedido=90
+Cozinheiro 3 preparando pedido=94
+Cozinheiro 4 terminou pedido=87
+Cozinheiro 4 preparando pedido=95
+Cozinheiro 4 terminou pedido=95
+Cozinheiro 4 preparando pedido=96
+Cozinheiro 3 terminou pedido=94
+Cozinheiro 3 preparando pedido=97
+Cozinheiro 2 terminou pedido=92
+Cozinheiro 2 preparando pedido=98
+Cozinheiro 1 terminou pedido=91
+Cozinheiro 1 preparando pedido=99
+Cozinheiro 0 terminou pedido=93
+Cozinheiro 4 terminou pedido=96
+Cozinheiro 3 terminou pedido=97
+Cozinheiro 1 terminou pedido=99
+Cozinheiro 2 terminou pedido=98
+
+Tempo total: 6.5525269508362 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 8, 13, 16, 24, 28, 34, 35, 40, 44, 48, 57, 62, 64, 71, 79, 86, 93
+Cozinheiro 1 atendeu os pedidos: 1, 5, 10, 18, 20, 26, 32, 36, 43, 50, 53, 55, 60, 66, 73, 75, 80, 83, 89, 91, 99
+Cozinheiro 2 atendeu os pedidos: 2, 7, 11, 15, 23, 29, 33, 39, 42, 46, 52, 56, 59, 67, 70, 74, 85, 88, 92, 98
+Cozinheiro 3 atendeu os pedidos: 3, 9, 14, 19, 21, 25, 30, 38, 45, 49, 54, 58, 63, 68, 72, 77, 81, 84, 90, 94, 97
+Cozinheiro 4 atendeu os pedidos: 4, 6, 12, 17, 22, 27, 31, 37, 41, 47, 51, 61, 65, 69, 76, 78, 82, 87, 95, 96
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 6 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=5
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=6
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=7
+Cozinheiro 0 terminou pedido=5
+Cozinheiro 0 preparando pedido=8
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=9
+Cozinheiro 1 terminou pedido=6
+Cozinheiro 1 preparando pedido=10
+Cozinheiro 0 terminou pedido=8
+Cozinheiro 0 preparando pedido=11
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=12
+Cozinheiro 4 terminou pedido=9
+Cozinheiro 4 preparando pedido=13
+Cozinheiro 0 terminou pedido=11
+Cozinheiro 0 preparando pedido=14
+Cozinheiro 3 terminou pedido=7
+Cozinheiro 3 preparando pedido=15
+Cozinheiro 1 terminou pedido=10
+Cozinheiro 1 preparando pedido=16
+Cozinheiro 4 terminou pedido=13
+Cozinheiro 4 preparando pedido=17
+Cozinheiro 2 terminou pedido=12
+Cozinheiro 2 preparando pedido=18
+Cozinheiro 3 terminou pedido=15
+Cozinheiro 3 preparando pedido=19
+Cozinheiro 2 terminou pedido=18
+Cozinheiro 2 preparando pedido=20
+Cozinheiro 0 terminou pedido=14
+Cozinheiro 0 preparando pedido=21
+Cozinheiro 4 terminou pedido=17
+Cozinheiro 4 preparando pedido=22
+Cozinheiro 3 terminou pedido=19
+Cozinheiro 3 preparando pedido=23
+Cozinheiro 1 terminou pedido=16
+Cozinheiro 1 preparando pedido=24
+Cozinheiro 0 terminou pedido=21
+Cozinheiro 0 preparando pedido=25
+Cozinheiro 1 terminou pedido=24
+Cozinheiro 1 preparando pedido=26
+Cozinheiro 2 terminou pedido=20
+Cozinheiro 2 preparando pedido=27
+Cozinheiro 4 terminou pedido=22
+Cozinheiro 4 preparando pedido=28
+Cozinheiro 3 terminou pedido=23
+Cozinheiro 3 preparando pedido=29
+Cozinheiro 2 terminou pedido=27
+Cozinheiro 2 preparando pedido=30
+Cozinheiro 0 terminou pedido=25
+Cozinheiro 0 preparando pedido=31
+Cozinheiro 4 terminou pedido=28
+Cozinheiro 4 preparando pedido=32
+Cozinheiro 3 terminou pedido=29
+Cozinheiro 3 preparando pedido=33
+Cozinheiro 4 terminou pedido=32
+Cozinheiro 4 preparando pedido=34
+Cozinheiro 2 terminou pedido=30
+Cozinheiro 2 preparando pedido=35
+Cozinheiro 0 terminou pedido=31
+Cozinheiro 0 preparando pedido=36
+Cozinheiro 1 terminou pedido=26
+Cozinheiro 1 preparando pedido=37
+Cozinheiro 1 terminou pedido=37
+Cozinheiro 1 preparando pedido=38
+Cozinheiro 2 terminou pedido=35
+Cozinheiro 2 preparando pedido=39
+Cozinheiro 4 terminou pedido=34
+Cozinheiro 4 preparando pedido=40
+Cozinheiro 0 terminou pedido=36
+Cozinheiro 0 preparando pedido=41
+Cozinheiro 3 terminou pedido=33
+Cozinheiro 3 preparando pedido=42
+Cozinheiro 1 terminou pedido=38
+Cozinheiro 1 preparando pedido=43
+Cozinheiro 4 terminou pedido=40
+Cozinheiro 4 preparando pedido=44
+Cozinheiro 3 terminou pedido=42
+Cozinheiro 3 preparando pedido=45
+Cozinheiro 0 terminou pedido=41
+Cozinheiro 0 preparando pedido=46
+Cozinheiro 4 terminou pedido=44
+Cozinheiro 4 preparando pedido=47
+Cozinheiro 2 terminou pedido=39
+Cozinheiro 2 preparando pedido=48
+Cozinheiro 1 terminou pedido=43
+Cozinheiro 1 preparando pedido=49
+Cozinheiro 0 terminou pedido=46
+Cozinheiro 0 preparando pedido=50
+Cozinheiro 1 terminou pedido=49
+Cozinheiro 1 preparando pedido=51
+Cozinheiro 4 terminou pedido=47
+Cozinheiro 4 preparando pedido=52
+Cozinheiro 3 terminou pedido=45
+Cozinheiro 3 preparando pedido=53
+Cozinheiro 2 terminou pedido=48
+Cozinheiro 2 preparando pedido=54
+Cozinheiro 1 terminou pedido=51
+Cozinheiro 1 preparando pedido=55
+Cozinheiro 2 terminou pedido=54
+Cozinheiro 2 preparando pedido=56
+Cozinheiro 4 terminou pedido=52
+Cozinheiro 4 preparando pedido=57
+Cozinheiro 0 terminou pedido=50
+Cozinheiro 0 preparando pedido=58
+Cozinheiro 4 terminou pedido=57
+Cozinheiro 4 preparando pedido=59
+Cozinheiro 3 terminou pedido=53
+Cozinheiro 3 preparando pedido=60
+Cozinheiro 2 terminou pedido=56
+Cozinheiro 2 preparando pedido=61
+Cozinheiro 0 terminou pedido=58
+Cozinheiro 0 preparando pedido=62
+Cozinheiro 1 terminou pedido=55
+Cozinheiro 1 preparando pedido=63
+Cozinheiro 4 terminou pedido=59
+Cozinheiro 4 preparando pedido=64
+Cozinheiro 0 terminou pedido=62
+Cozinheiro 0 preparando pedido=65
+Cozinheiro 2 terminou pedido=61
+Cozinheiro 2 preparando pedido=66
+Cozinheiro 3 terminou pedido=60
+Cozinheiro 3 preparando pedido=67
+Cozinheiro 0 terminou pedido=65
+Cozinheiro 0 preparando pedido=68
+Cozinheiro 1 terminou pedido=63
+Cozinheiro 1 preparando pedido=69
+Cozinheiro 4 terminou pedido=64
+Cozinheiro 4 preparando pedido=70
+Cozinheiro 2 terminou pedido=66
+Cozinheiro 2 preparando pedido=71
+Cozinheiro 3 terminou pedido=67
+Cozinheiro 3 preparando pedido=72
+Cozinheiro 0 terminou pedido=68
+Cozinheiro 0 preparando pedido=73
+Cozinheiro 1 terminou pedido=69
+Cozinheiro 1 preparando pedido=74
+Cozinheiro 4 terminou pedido=70
+Cozinheiro 4 preparando pedido=75
+Cozinheiro 3 terminou pedido=72
+Cozinheiro 3 preparando pedido=76
+Cozinheiro 2 terminou pedido=71
+Cozinheiro 2 preparando pedido=77
+Cozinheiro 0 terminou pedido=73
+Cozinheiro 0 preparando pedido=78
+Cozinheiro 3 terminou pedido=76
+Cozinheiro 3 preparando pedido=79
+Cozinheiro 2 terminou pedido=77
+Cozinheiro 2 preparando pedido=80
+Cozinheiro 0 terminou pedido=78
+Cozinheiro 0 preparando pedido=81
+Cozinheiro 2 terminou pedido=80
+Cozinheiro 2 preparando pedido=82
+Cozinheiro 1 terminou pedido=74
+Cozinheiro 1 preparando pedido=83
+Cozinheiro 4 terminou pedido=75
+Cozinheiro 4 preparando pedido=84
+Cozinheiro 3 terminou pedido=79
+Cozinheiro 3 preparando pedido=85
+Cozinheiro 1 terminou pedido=83
+Cozinheiro 1 preparando pedido=86
+Cozinheiro 4 terminou pedido=84
+Cozinheiro 4 preparando pedido=87
+Cozinheiro 1 terminou pedido=86
+Cozinheiro 1 preparando pedido=88
+Cozinheiro 3 terminou pedido=85
+Cozinheiro 3 preparando pedido=89
+Cozinheiro 2 terminou pedido=82
+Cozinheiro 2 preparando pedido=90
+Cozinheiro 0 terminou pedido=81
+Cozinheiro 0 preparando pedido=91
+Cozinheiro 1 terminou pedido=88
+Cozinheiro 1 preparando pedido=92
+Cozinheiro 4 terminou pedido=87
+Cozinheiro 4 preparando pedido=93
+Cozinheiro 3 terminou pedido=89
+Cozinheiro 3 preparando pedido=94
+Cozinheiro 0 terminou pedido=91
+Cozinheiro 0 preparando pedido=95
+Cozinheiro 3 terminou pedido=94
+Cozinheiro 3 preparando pedido=96
+Cozinheiro 2 terminou pedido=90
+Cozinheiro 2 preparando pedido=97
+Cozinheiro 4 terminou pedido=93
+Cozinheiro 4 preparando pedido=98
+Cozinheiro 1 terminou pedido=92
+Cozinheiro 1 preparando pedido=99
+Cozinheiro 0 terminou pedido=95
+Cozinheiro 3 terminou pedido=96
+Cozinheiro 1 terminou pedido=99
+Cozinheiro 2 terminou pedido=97
+Cozinheiro 4 terminou pedido=98
+
+Tempo total: 6.0166001319885 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 5, 8, 11, 14, 21, 25, 31, 36, 41, 46, 50, 58, 62, 65, 68, 73, 78, 81, 91, 95
+Cozinheiro 1 atendeu os pedidos: 1, 6, 10, 16, 24, 26, 37, 38, 43, 49, 51, 55, 63, 69, 74, 83, 86, 88, 92, 99
+Cozinheiro 2 atendeu os pedidos: 2, 12, 18, 20, 27, 30, 35, 39, 48, 54, 56, 61, 66, 71, 77, 80, 82, 90, 97
+Cozinheiro 3 atendeu os pedidos: 3, 7, 15, 19, 23, 29, 33, 42, 45, 53, 60, 67, 72, 76, 79, 85, 89, 94, 96
+Cozinheiro 4 atendeu os pedidos: 4, 9, 13, 17, 22, 28, 32, 34, 40, 44, 47, 52, 57, 59, 64, 70, 75, 84, 87, 93, 98
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 7 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=6
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=7
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 2 terminou pedido=6
+Cozinheiro 3 preparando pedido=8
+Cozinheiro 2 preparando pedido=9
+Cozinheiro 1 preparando pedido=10
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=11
+Cozinheiro 3 terminou pedido=8
+Cozinheiro 3 preparando pedido=12
+Cozinheiro 2 terminou pedido=9
+Cozinheiro 2 preparando pedido=13
+Cozinheiro 4 terminou pedido=7
+Cozinheiro 4 preparando pedido=14
+Cozinheiro 0 terminou pedido=11
+Cozinheiro 0 preparando pedido=15
+Cozinheiro 1 terminou pedido=10
+Cozinheiro 1 preparando pedido=16
+Cozinheiro 4 terminou pedido=14
+Cozinheiro 4 preparando pedido=17
+Cozinheiro 0 terminou pedido=15
+Cozinheiro 0 preparando pedido=18
+Cozinheiro 2 terminou pedido=13
+Cozinheiro 2 preparando pedido=19
+Cozinheiro 3 terminou pedido=12
+Cozinheiro 3 preparando pedido=20
+Cozinheiro 4 terminou pedido=17
+Cozinheiro 4 preparando pedido=21
+Cozinheiro 0 terminou pedido=18
+Cozinheiro 0 preparando pedido=22
+Cozinheiro 4 terminou pedido=21
+Cozinheiro 4 preparando pedido=23
+Cozinheiro 3 terminou pedido=20
+Cozinheiro 3 preparando pedido=24
+Cozinheiro 1 terminou pedido=16
+Cozinheiro 1 preparando pedido=25
+Cozinheiro 2 terminou pedido=19
+Cozinheiro 2 preparando pedido=26
+Cozinheiro 3 terminou pedido=24
+Cozinheiro 3 preparando pedido=27
+Cozinheiro 1 terminou pedido=25
+Cozinheiro 1 preparando pedido=28
+Cozinheiro 0 terminou pedido=22
+Cozinheiro 0 preparando pedido=29
+Cozinheiro 4 terminou pedido=23
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 3 terminou pedido=27
+Cozinheiro 3 preparando pedido=31
+Cozinheiro 2 terminou pedido=26
+Cozinheiro 2 preparando pedido=32
+Cozinheiro 0 terminou pedido=29
+Cozinheiro 0 preparando pedido=33
+Cozinheiro 1 terminou pedido=28
+Cozinheiro 1 preparando pedido=34
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4 preparando pedido=35
+Cozinheiro 3 terminou pedido=31
+Cozinheiro 3 preparando pedido=36
+Cozinheiro 0 terminou pedido=33
+Cozinheiro 0 preparando pedido=37
+Cozinheiro 2 terminou pedido=32
+Cozinheiro 2 preparando pedido=38
+Cozinheiro 4 terminou pedido=35
+Cozinheiro 4 preparando pedido=39
+Cozinheiro 3 terminou pedido=36
+Cozinheiro 3 preparando pedido=40
+Cozinheiro 2 terminou pedido=38
+Cozinheiro 2 preparando pedido=41
+Cozinheiro 0 terminou pedido=37
+Cozinheiro 0 preparando pedido=42
+Cozinheiro 1 terminou pedido=34
+Cozinheiro 1 preparando pedido=43
+Cozinheiro 4 terminou pedido=39
+Cozinheiro 4 preparando pedido=44
+Cozinheiro 4 terminou pedido=44
+Cozinheiro 4 preparando pedido=45
+Cozinheiro 2 terminou pedido=41
+Cozinheiro 2 preparando pedido=46
+Cozinheiro 1 terminou pedido=43
+Cozinheiro 1 preparando pedido=47
+Cozinheiro 3 terminou pedido=40
+Cozinheiro 3 preparando pedido=48
+Cozinheiro 0 terminou pedido=42
+Cozinheiro 0 preparando pedido=49
+Cozinheiro 0 terminou pedido=49
+Cozinheiro 0 preparando pedido=50
+Cozinheiro 4 terminou pedido=45
+Cozinheiro 4 preparando pedido=51
+Cozinheiro 3 terminou pedido=48
+Cozinheiro 3 preparando pedido=52
+Cozinheiro 2 terminou pedido=46
+Cozinheiro 2 preparando pedido=53
+Cozinheiro 1 terminou pedido=47
+Cozinheiro 1 preparando pedido=54
+Cozinheiro 0 terminou pedido=50
+Cozinheiro 0 preparando pedido=55
+Cozinheiro 4 terminou pedido=51
+Cozinheiro 4 preparando pedido=56
+Cozinheiro 2 terminou pedido=53
+Cozinheiro 2 preparando pedido=57
+Cozinheiro 3 terminou pedido=52
+Cozinheiro 3 preparando pedido=58
+Cozinheiro 1 terminou pedido=54
+Cozinheiro 1 preparando pedido=59
+Cozinheiro 0 terminou pedido=55
+Cozinheiro 0 preparando pedido=60
+Cozinheiro 4 terminou pedido=56
+Cozinheiro 4 preparando pedido=61
+Cozinheiro 3 terminou pedido=58
+Cozinheiro 3 preparando pedido=62
+Cozinheiro 2 terminou pedido=57
+Cozinheiro 2 preparando pedido=63
+Cozinheiro 2 terminou pedido=63
+Cozinheiro 2 preparando pedido=64
+Cozinheiro 4 terminou pedido=61
+Cozinheiro 4 preparando pedido=65
+Cozinheiro 3 terminou pedido=62
+Cozinheiro 3 preparando pedido=66
+Cozinheiro 1 terminou pedido=59
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 0 terminou pedido=60
+Cozinheiro 0 preparando pedido=68
+Cozinheiro 0 terminou pedido=68
+Cozinheiro 0 preparando pedido=69
+Cozinheiro 4 terminou pedido=65
+Cozinheiro 4 preparando pedido=70
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 1 preparando pedido=71
+Cozinheiro 3 terminou pedido=66
+Cozinheiro 3 preparando pedido=72
+Cozinheiro 2 terminou pedido=64
+Cozinheiro 2 preparando pedido=73
+Cozinheiro 1 terminou pedido=71
+Cozinheiro 1 preparando pedido=74
+Cozinheiro 0 terminou pedido=69
+Cozinheiro 0 preparando pedido=75
+Cozinheiro 4 terminou pedido=70
+Cozinheiro 4 preparando pedido=76
+Cozinheiro 3 terminou pedido=72
+Cozinheiro 3 preparando pedido=77
+Cozinheiro 2 terminou pedido=73
+Cozinheiro 2 preparando pedido=78
+Cozinheiro 0 terminou pedido=75
+Cozinheiro 0 preparando pedido=79
+Cozinheiro 3 terminou pedido=77
+Cozinheiro 3 preparando pedido=80
+Cozinheiro 4 terminou pedido=76
+Cozinheiro 4 preparando pedido=81
+Cozinheiro 2 terminou pedido=78
+Cozinheiro 2 preparando pedido=82
+Cozinheiro 1 terminou pedido=74
+Cozinheiro 1 preparando pedido=83
+Cozinheiro 0 terminou pedido=79
+Cozinheiro 0 preparando pedido=84
+Cozinheiro 3 terminou pedido=80
+Cozinheiro 3 preparando pedido=85
+Cozinheiro 4 terminou pedido=81
+Cozinheiro 4 preparando pedido=86
+Cozinheiro 1 terminou pedido=83
+Cozinheiro 1 preparando pedido=87
+Cozinheiro 0 terminou pedido=84
+Cozinheiro 0 preparando pedido=88
+Cozinheiro 3 terminou pedido=85
+Cozinheiro 3 preparando pedido=89
+Cozinheiro 1 terminou pedido=87
+Cozinheiro 1 preparando pedido=90
+Cozinheiro 2 terminou pedido=82
+Cozinheiro 2 preparando pedido=91
+Cozinheiro 0 terminou pedido=88
+Cozinheiro 0 preparando pedido=92
+Cozinheiro 4 terminou pedido=86
+Cozinheiro 4 preparando pedido=93
+Cozinheiro 3 terminou pedido=89
+Cozinheiro 3 preparando pedido=94
+Cozinheiro 0 terminou pedido=92
+Cozinheiro 0 preparando pedido=95
+Cozinheiro 1 terminou pedido=90
+Cozinheiro 1 preparando pedido=96
+Cozinheiro 3 terminou pedido=94
+Cozinheiro 3 preparando pedido=97
+Cozinheiro 2 terminou pedido=91
+Cozinheiro 2 preparando pedido=98
+Cozinheiro 0 terminou pedido=95
+Cozinheiro 0 preparando pedido=99
+Cozinheiro 1 terminou pedido=96
+Cozinheiro 4 terminou pedido=93
+Cozinheiro 2 terminou pedido=98
+Cozinheiro 0 terminou pedido=99
+Cozinheiro 3 terminou pedido=97
+
+Tempo total: 5.9211938381195 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 11, 15, 18, 22, 29, 33, 37, 42, 49, 50, 55, 60, 68, 69, 75, 79, 84, 88, 92, 95, 99
+Cozinheiro 1 atendeu os pedidos: 1, 5, 10, 16, 25, 28, 34, 43, 47, 54, 59, 67, 71, 74, 83, 87, 90, 96
+Cozinheiro 2 atendeu os pedidos: 2, 6, 9, 13, 19, 26, 32, 38, 41, 46, 53, 57, 63, 64, 73, 78, 82, 91, 98
+Cozinheiro 3 atendeu os pedidos: 3, 8, 12, 20, 24, 27, 31, 36, 40, 48, 52, 58, 62, 66, 72, 77, 80, 85, 89, 94, 97
+Cozinheiro 4 atendeu os pedidos: 4, 7, 14, 17, 21, 23, 30, 35, 39, 44, 45, 51, 56, 61, 65, 70, 76, 81, 86, 93
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 8 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=5
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=6
+Cozinheiro 3 terminou pedido=5
+Cozinheiro 3 preparando pedido=7
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=8
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=9
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=10
+Cozinheiro 3 terminou pedido=7
+Cozinheiro 3 preparando pedido=11
+Cozinheiro 4 terminou pedido=10
+Cozinheiro 4 preparando pedido=12
+Cozinheiro 0 terminou pedido=6
+Cozinheiro 0 preparando pedido=13
+Cozinheiro 1 terminou pedido=8
+Cozinheiro 1 preparando pedido=14
+Cozinheiro 2 terminou pedido=9
+Cozinheiro 2 preparando pedido=15
+Cozinheiro 0 terminou pedido=13
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 4 terminou pedido=12
+Cozinheiro 4 preparando pedido=17
+Cozinheiro 3 terminou pedido=11
+Cozinheiro 3 preparando pedido=18
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0 preparando pedido=19
+Cozinheiro 1 terminou pedido=14
+Cozinheiro 1 preparando pedido=20
+Cozinheiro 2 terminou pedido=15
+Cozinheiro 2 preparando pedido=21
+Cozinheiro 2 terminou pedido=21
+Cozinheiro 2 preparando pedido=22
+Cozinheiro 1 terminou pedido=20
+Cozinheiro 1 preparando pedido=23
+Cozinheiro 1 terminou pedido=23
+Cozinheiro 1 preparando pedido=24
+Cozinheiro 4 terminou pedido=17
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 3 terminou pedido=18
+Cozinheiro 3 preparando pedido=26
+Cozinheiro 0 terminou pedido=19
+Cozinheiro 0 preparando pedido=27
+Cozinheiro 2 terminou pedido=22
+Cozinheiro 2 preparando pedido=28
+Cozinheiro 0 terminou pedido=27
+Cozinheiro 0 preparando pedido=29
+Cozinheiro 3 terminou pedido=26
+Cozinheiro 3 preparando pedido=30
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4 preparando pedido=31
+Cozinheiro 1 terminou pedido=24
+Cozinheiro 1 preparando pedido=32
+Cozinheiro 2 terminou pedido=28
+Cozinheiro 2 preparando pedido=33
+Cozinheiro 4 terminou pedido=31
+Cozinheiro 4 preparando pedido=34
+Cozinheiro 4 terminou pedido=34
+Cozinheiro 4 preparando pedido=35
+Cozinheiro 0 terminou pedido=29
+Cozinheiro 0 preparando pedido=36
+Cozinheiro 3 terminou pedido=30
+Cozinheiro 3 preparando pedido=37
+Cozinheiro 1 terminou pedido=32
+Cozinheiro 1 preparando pedido=38
+Cozinheiro 2 terminou pedido=33
+Cozinheiro 2 preparando pedido=39
+Cozinheiro 4 terminou pedido=35
+Cozinheiro 4 preparando pedido=40
+Cozinheiro 1 terminou pedido=38
+Cozinheiro 1 preparando pedido=41
+Cozinheiro 3 terminou pedido=37
+Cozinheiro 3 preparando pedido=42
+Cozinheiro 0 terminou pedido=36
+Cozinheiro 0 preparando pedido=43
+Cozinheiro 2 terminou pedido=39
+Cozinheiro 2 preparando pedido=44
+Cozinheiro 4 terminou pedido=40
+Cozinheiro 4 preparando pedido=45
+Cozinheiro 1 terminou pedido=41
+Cozinheiro 1 preparando pedido=46
+Cozinheiro 3 terminou pedido=42
+Cozinheiro 3 preparando pedido=47
+Cozinheiro 0 terminou pedido=43
+Cozinheiro 0 preparando pedido=48
+Cozinheiro 2 terminou pedido=44
+Cozinheiro 2 preparando pedido=49
+Cozinheiro 1 terminou pedido=46
+Cozinheiro 1 preparando pedido=50
+Cozinheiro 0 terminou pedido=48
+Cozinheiro 0 preparando pedido=51
+Cozinheiro 4 terminou pedido=45
+Cozinheiro 4 preparando pedido=52
+Cozinheiro 3 terminou pedido=47
+Cozinheiro 3 preparando pedido=53
+Cozinheiro 2 terminou pedido=49
+Cozinheiro 2 preparando pedido=54
+Cozinheiro 1 terminou pedido=50
+Cozinheiro 1 preparando pedido=55
+Cozinheiro 4 terminou pedido=52
+Cozinheiro 4 preparando pedido=56
+Cozinheiro 3 terminou pedido=53
+Cozinheiro 3 preparando pedido=57
+Cozinheiro 4 terminou pedido=56
+Cozinheiro 4 preparando pedido=58
+Cozinheiro 0 terminou pedido=51
+Cozinheiro 0 preparando pedido=59
+Cozinheiro 4 terminou pedido=58
+Cozinheiro 4 preparando pedido=60
+Cozinheiro 1 terminou pedido=55
+Cozinheiro 1 preparando pedido=61
+Cozinheiro 4 terminou pedido=60
+Cozinheiro 4 preparando pedido=62
+Cozinheiro 2 terminou pedido=54
+Cozinheiro 2 preparando pedido=63
+Cozinheiro 0 terminou pedido=59
+Cozinheiro 0 preparando pedido=64
+Cozinheiro 3 terminou pedido=57
+Cozinheiro 3 preparando pedido=65
+Cozinheiro 2 terminou pedido=63
+Cozinheiro 2 preparando pedido=66
+Cozinheiro 1 terminou pedido=61
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 0 terminou pedido=64
+Cozinheiro 0 preparando pedido=68
+Cozinheiro 4 terminou pedido=62
+Cozinheiro 4 preparando pedido=69
+Cozinheiro 2 terminou pedido=66
+Cozinheiro 2 preparando pedido=70
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 1 preparando pedido=71
+Cozinheiro 4 terminou pedido=69
+Cozinheiro 4 preparando pedido=72
+Cozinheiro 3 terminou pedido=65
+Cozinheiro 3 preparando pedido=73
+Cozinheiro 3 terminou pedido=73
+Cozinheiro 3 preparando pedido=74
+Cozinheiro 0 terminou pedido=68
+Cozinheiro 0 preparando pedido=75
+Cozinheiro 4 terminou pedido=72
+Cozinheiro 4 preparando pedido=76
+Cozinheiro 2 terminou pedido=70
+Cozinheiro 2 preparando pedido=77
+Cozinheiro 1 terminou pedido=71
+Cozinheiro 1 preparando pedido=78
+Cozinheiro 2 terminou pedido=77
+Cozinheiro 2 preparando pedido=79
+Cozinheiro 3 terminou pedido=74
+Cozinheiro 3 preparando pedido=80
+Cozinheiro 0 terminou pedido=75
+Cozinheiro 0 preparando pedido=81
+Cozinheiro 2 terminou pedido=79
+Cozinheiro 2 preparando pedido=82
+Cozinheiro 0 terminou pedido=81
+Cozinheiro 0 preparando pedido=83
+Cozinheiro 3 terminou pedido=80
+Cozinheiro 3 preparando pedido=84
+Cozinheiro 4 terminou pedido=76
+Cozinheiro 4 preparando pedido=85
+Cozinheiro 1 terminou pedido=78
+Cozinheiro 1 preparando pedido=86
+Cozinheiro 3 terminou pedido=84
+Cozinheiro 3 preparando pedido=87
+Cozinheiro 2 terminou pedido=82
+Cozinheiro 2 preparando pedido=88
+Cozinheiro 0 terminou pedido=83
+Cozinheiro 0 preparando pedido=89
+Cozinheiro 1 terminou pedido=86
+Cozinheiro 1 preparando pedido=90
+Cozinheiro 4 terminou pedido=85
+Cozinheiro 4 preparando pedido=91
+Cozinheiro 3 terminou pedido=87
+Cozinheiro 3 preparando pedido=92
+Cozinheiro 2 terminou pedido=88
+Cozinheiro 2 preparando pedido=93
+Cozinheiro 3 terminou pedido=92
+Cozinheiro 3 preparando pedido=94
+Cozinheiro 1 terminou pedido=90
+Cozinheiro 1 preparando pedido=95
+Cozinheiro 4 terminou pedido=91
+Cozinheiro 4 preparando pedido=96
+Cozinheiro 2 terminou pedido=93
+Cozinheiro 2 preparando pedido=97
+Cozinheiro 0 terminou pedido=89
+Cozinheiro 0 preparando pedido=98
+Cozinheiro 4 terminou pedido=96
+Cozinheiro 4 preparando pedido=99
+Cozinheiro 1 terminou pedido=95
+Cozinheiro 0 terminou pedido=98
+Cozinheiro 2 terminou pedido=97
+Cozinheiro 3 terminou pedido=94
+Cozinheiro 4 terminou pedido=99
+
+Tempo total: 6.3106429576874 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 6, 13, 16, 19, 27, 29, 36, 43, 48, 51, 59, 64, 68, 75, 81, 83, 89, 98
+Cozinheiro 1 atendeu os pedidos: 1, 8, 14, 20, 23, 24, 32, 38, 41, 46, 50, 55, 61, 67, 71, 78, 86, 90, 95
+Cozinheiro 2 atendeu os pedidos: 2, 9, 15, 21, 22, 28, 33, 39, 44, 49, 54, 63, 66, 70, 77, 79, 82, 88, 93, 97
+Cozinheiro 3 atendeu os pedidos: 3, 5, 7, 11, 18, 26, 30, 37, 42, 47, 53, 57, 65, 73, 74, 80, 84, 87, 92, 94
+Cozinheiro 4 atendeu os pedidos: 4, 10, 12, 17, 25, 31, 34, 35, 40, 45, 52, 56, 58, 60, 62, 69, 72, 76, 85, 91, 96, 99
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 9 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=1
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 1 terminou pedido=1
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=6
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 1 preparando pedido=7
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=8
+Cozinheiro 2 terminou pedido=2
+Cozinheiro 2 preparando pedido=9
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=10
+Cozinheiro 0 terminou pedido=10
+Cozinheiro 0 preparando pedido=11
+Cozinheiro 3 terminou pedido=6
+Cozinheiro 3 preparando pedido=12
+Cozinheiro 1 terminou pedido=7
+Cozinheiro 1 preparando pedido=13
+Cozinheiro 4 terminou pedido=8
+Cozinheiro 4 preparando pedido=14
+Cozinheiro 2 terminou pedido=9
+Cozinheiro 2 preparando pedido=15
+Cozinheiro 1 terminou pedido=13
+Cozinheiro 1 preparando pedido=16
+Cozinheiro 0 terminou pedido=11
+Cozinheiro 0 preparando pedido=17
+Cozinheiro 4 terminou pedido=14
+Cozinheiro 4 preparando pedido=18
+Cozinheiro 2 terminou pedido=15
+Cozinheiro 2 preparando pedido=19
+Cozinheiro 3 terminou pedido=12
+Cozinheiro 3 preparando pedido=20
+Cozinheiro 1 terminou pedido=16
+Cozinheiro 1 preparando pedido=21
+Cozinheiro 0 terminou pedido=17
+Cozinheiro 0 preparando pedido=22
+Cozinheiro 2 terminou pedido=19
+Cozinheiro 2 preparando pedido=23
+Cozinheiro 3 terminou pedido=20
+Cozinheiro 3 preparando pedido=24
+Cozinheiro 1 terminou pedido=21
+Cozinheiro 1 preparando pedido=25
+Cozinheiro 4 terminou pedido=18
+Cozinheiro 4 preparando pedido=26
+Cozinheiro 0 terminou pedido=22
+Cozinheiro 0 preparando pedido=27
+Cozinheiro 2 terminou pedido=23
+Cozinheiro 2 preparando pedido=28
+Cozinheiro 3 terminou pedido=24
+Cozinheiro 3 preparando pedido=29
+Cozinheiro 4 terminou pedido=26
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4 preparando pedido=31
+Cozinheiro 1 terminou pedido=25
+Cozinheiro 1 preparando pedido=32
+Cozinheiro 2 terminou pedido=28
+Cozinheiro 2 preparando pedido=33
+Cozinheiro 3 terminou pedido=29
+Cozinheiro 3 preparando pedido=34
+Cozinheiro 0 terminou pedido=27
+Cozinheiro 0 preparando pedido=35
+Cozinheiro 2 terminou pedido=33
+Cozinheiro 2 preparando pedido=36
+Cozinheiro 4 terminou pedido=31
+Cozinheiro 4 preparando pedido=37
+Cozinheiro 1 terminou pedido=32
+Cozinheiro 1 preparando pedido=38
+Cozinheiro 3 terminou pedido=34
+Cozinheiro 3 preparando pedido=39
+Cozinheiro 0 terminou pedido=35
+Cozinheiro 0 preparando pedido=40
+Cozinheiro 1 terminou pedido=38
+Cozinheiro 1 preparando pedido=41
+Cozinheiro 4 terminou pedido=37
+Cozinheiro 4 preparando pedido=42
+Cozinheiro 2 terminou pedido=36
+Cozinheiro 2 preparando pedido=43
+Cozinheiro 3 terminou pedido=39
+Cozinheiro 3 preparando pedido=44
+Cozinheiro 3 terminou pedido=44
+Cozinheiro 3 preparando pedido=45
+Cozinheiro 1 terminou pedido=41
+Cozinheiro 1 preparando pedido=46
+Cozinheiro 2 terminou pedido=43
+Cozinheiro 2 preparando pedido=47
+Cozinheiro 0 terminou pedido=40
+Cozinheiro 0 preparando pedido=48
+Cozinheiro 1 terminou pedido=46
+Cozinheiro 1 preparando pedido=49
+Cozinheiro 2 terminou pedido=47
+Cozinheiro 2 preparando pedido=50
+Cozinheiro 0 terminou pedido=48
+Cozinheiro 0 preparando pedido=51
+Cozinheiro 1 terminou pedido=49
+Cozinheiro 1 preparando pedido=52
+Cozinheiro 3 terminou pedido=45
+Cozinheiro 3 preparando pedido=53
+Cozinheiro 4 terminou pedido=42
+Cozinheiro 4 preparando pedido=54
+Cozinheiro 0 terminou pedido=51
+Cozinheiro 0 preparando pedido=55
+Cozinheiro 1 terminou pedido=52
+Cozinheiro 1 preparando pedido=56
+Cozinheiro 4 terminou pedido=54
+Cozinheiro 4 preparando pedido=57
+Cozinheiro 2 terminou pedido=50
+Cozinheiro 2 preparando pedido=58
+Cozinheiro 4 terminou pedido=57
+Cozinheiro 4 preparando pedido=59
+Cozinheiro 1 terminou pedido=56
+Cozinheiro 1 preparando pedido=60
+Cozinheiro 3 terminou pedido=53
+Cozinheiro 3 preparando pedido=61
+Cozinheiro 0 terminou pedido=55
+Cozinheiro 0 preparando pedido=62
+Cozinheiro 2 terminou pedido=58
+Cozinheiro 2 preparando pedido=63
+Cozinheiro 3 terminou pedido=61
+Cozinheiro 3 preparando pedido=64
+Cozinheiro 1 terminou pedido=60
+Cozinheiro 1 preparando pedido=65
+Cozinheiro 2 terminou pedido=63
+Cozinheiro 2 preparando pedido=66
+Cozinheiro 4 terminou pedido=59
+Cozinheiro 4 preparando pedido=67
+Cozinheiro 0 terminou pedido=62
+Cozinheiro 0 preparando pedido=68
+Cozinheiro 3 terminou pedido=64
+Cozinheiro 3 preparando pedido=69
+Cozinheiro 1 terminou pedido=65
+Cozinheiro 1 preparando pedido=70
+Cozinheiro 2 terminou pedido=66
+Cozinheiro 2 preparando pedido=71
+Cozinheiro 4 terminou pedido=67
+Cozinheiro 4 preparando pedido=72
+Cozinheiro 0 terminou pedido=68
+Cozinheiro 0 preparando pedido=73
+Cozinheiro 3 terminou pedido=69
+Cozinheiro 3 preparando pedido=74
+Cozinheiro 1 terminou pedido=70
+Cozinheiro 1 preparando pedido=75
+Cozinheiro 2 terminou pedido=71
+Cozinheiro 2 preparando pedido=76
+Cozinheiro 4 terminou pedido=72
+Cozinheiro 4 preparando pedido=77
+Cozinheiro 0 terminou pedido=73
+Cozinheiro 0 preparando pedido=78
+Cozinheiro 3 terminou pedido=74
+Cozinheiro 3 preparando pedido=79
+Cozinheiro 1 terminou pedido=75
+Cozinheiro 1 preparando pedido=80
+Cozinheiro 2 terminou pedido=76
+Cozinheiro 2 preparando pedido=81
+Cozinheiro 0 terminou pedido=78
+Cozinheiro 0 preparando pedido=82
+Cozinheiro 2 terminou pedido=81
+Cozinheiro 2 preparando pedido=83
+Cozinheiro 1 terminou pedido=80
+Cozinheiro 1 preparando pedido=84
+Cozinheiro 2 terminou pedido=83
+Cozinheiro 2 preparando pedido=85
+Cozinheiro 4 terminou pedido=77
+Cozinheiro 4 preparando pedido=86
+Cozinheiro 3 terminou pedido=79
+Cozinheiro 3 preparando pedido=87
+Cozinheiro 0 terminou pedido=82
+Cozinheiro 0 preparando pedido=88
+Cozinheiro 3 terminou pedido=87
+Cozinheiro 3 preparando pedido=89
+Cozinheiro 4 terminou pedido=86
+Cozinheiro 4 preparando pedido=90
+Cozinheiro 2 terminou pedido=85
+Cozinheiro 2 preparando pedido=91
+Cozinheiro 1 terminou pedido=84
+Cozinheiro 1 preparando pedido=92
+Cozinheiro 4 terminou pedido=90
+Cozinheiro 4 preparando pedido=93
+Cozinheiro 0 terminou pedido=88
+Cozinheiro 0 preparando pedido=94
+Cozinheiro 4 terminou pedido=93
+Cozinheiro 4 preparando pedido=95
+Cozinheiro 3 terminou pedido=89
+Cozinheiro 3 preparando pedido=96
+Cozinheiro 2 terminou pedido=91
+Cozinheiro 2 preparando pedido=97
+Cozinheiro 0 terminou pedido=94
+Cozinheiro 0 preparando pedido=98
+Cozinheiro 1 terminou pedido=92
+Cozinheiro 1 preparando pedido=99
+Cozinheiro 4 terminou pedido=95
+Cozinheiro 0 terminou pedido=98
+Cozinheiro 2 terminou pedido=97
+Cozinheiro 1 terminou pedido=99
+Cozinheiro 3 terminou pedido=96
+
+Tempo total: 6.1031501293182 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 10, 11, 17, 22, 27, 35, 40, 48, 51, 55, 62, 68, 73, 78, 82, 88, 94, 98
+Cozinheiro 1 atendeu os pedidos: 1, 5, 7, 13, 16, 21, 25, 32, 38, 41, 46, 49, 52, 56, 60, 65, 70, 75, 80, 84, 92, 99
+Cozinheiro 2 atendeu os pedidos: 2, 9, 15, 19, 23, 28, 33, 36, 43, 47, 50, 58, 63, 66, 71, 76, 81, 83, 85, 91, 97
+Cozinheiro 3 atendeu os pedidos: 3, 6, 12, 20, 24, 29, 34, 39, 44, 45, 53, 61, 64, 69, 74, 79, 87, 89, 96
+Cozinheiro 4 atendeu os pedidos: 4, 8, 14, 18, 26, 30, 31, 37, 42, 54, 57, 59, 67, 72, 77, 86, 90, 93, 95
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
+=== EXECUÇÃO 10 ===
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2 preparando pedido=1
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1 preparando pedido=2
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4 preparando pedido=4
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0 preparando pedido=5
+Cozinheiro 2 terminou pedido=1
+Cozinheiro 2 preparando pedido=6
+Cozinheiro 4 terminou pedido=4
+Cozinheiro 4 preparando pedido=7
+Cozinheiro 1 terminou pedido=2
+Cozinheiro 1 preparando pedido=8
+Cozinheiro 0 terminou pedido=5
+Cozinheiro 0 preparando pedido=9
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 3 preparando pedido=10
+Cozinheiro 4 terminou pedido=7
+Cozinheiro 4 preparando pedido=11
+Cozinheiro 2 terminou pedido=6
+Cozinheiro 2 preparando pedido=12
+Cozinheiro 3 terminou pedido=10
+Cozinheiro 3 preparando pedido=13
+Cozinheiro 2 terminou pedido=12
+Cozinheiro 2 preparando pedido=14
+Cozinheiro 1 terminou pedido=8
+Cozinheiro 1 preparando pedido=15
+Cozinheiro 0 terminou pedido=9
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 3 terminou pedido=13
+Cozinheiro 3 preparando pedido=17
+Cozinheiro 4 terminou pedido=11
+Cozinheiro 4 preparando pedido=18
+Cozinheiro 1 terminou pedido=15
+Cozinheiro 1 preparando pedido=19
+Cozinheiro 2 terminou pedido=14
+Cozinheiro 2 preparando pedido=20
+Cozinheiro 3 terminou pedido=17
+Cozinheiro 3 preparando pedido=21
+Cozinheiro 1 terminou pedido=19
+Cozinheiro 1 preparando pedido=22
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0 preparando pedido=23
+Cozinheiro 2 terminou pedido=20
+Cozinheiro 2 preparando pedido=24
+Cozinheiro 4 terminou pedido=18
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 1 terminou pedido=22
+Cozinheiro 1 preparando pedido=26
+Cozinheiro 0 terminou pedido=23
+Cozinheiro 0 preparando pedido=27
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4 preparando pedido=28
+Cozinheiro 3 terminou pedido=21
+Cozinheiro 3 preparando pedido=29
+Cozinheiro 2 terminou pedido=24
+Cozinheiro 2 preparando pedido=30
+Cozinheiro 0 terminou pedido=27
+Cozinheiro 0 preparando pedido=31
+Cozinheiro 4 terminou pedido=28
+Cozinheiro 4 preparando pedido=32
+Cozinheiro 1 terminou pedido=26
+Cozinheiro 1 preparando pedido=33
+Cozinheiro 3 terminou pedido=29
+Cozinheiro 3 preparando pedido=34
+Cozinheiro 2 terminou pedido=30
+Cozinheiro 2 preparando pedido=35
+Cozinheiro 4 terminou pedido=32
+Cozinheiro 4 preparando pedido=36
+Cozinheiro 2 terminou pedido=35
+Cozinheiro 2 preparando pedido=37
+Cozinheiro 4 terminou pedido=36
+Cozinheiro 4 preparando pedido=38
+Cozinheiro 0 terminou pedido=31
+Cozinheiro 0 preparando pedido=39
+Cozinheiro 1 terminou pedido=33
+Cozinheiro 1 preparando pedido=40
+Cozinheiro 3 terminou pedido=34
+Cozinheiro 3 preparando pedido=41
+Cozinheiro 1 terminou pedido=40
+Cozinheiro 1 preparando pedido=42
+Cozinheiro 3 terminou pedido=41
+Cozinheiro 3 preparando pedido=43
+Cozinheiro 1 terminou pedido=42
+Cozinheiro 1 preparando pedido=44
+Cozinheiro 2 terminou pedido=37
+Cozinheiro 2 preparando pedido=45
+Cozinheiro 4 terminou pedido=38
+Cozinheiro 4 preparando pedido=46
+Cozinheiro 0 terminou pedido=39
+Cozinheiro 0 preparando pedido=47
+Cozinheiro 3 terminou pedido=43
+Cozinheiro 3 preparando pedido=48
+Cozinheiro 4 terminou pedido=46
+Cozinheiro 4 preparando pedido=49
+Cozinheiro 2 terminou pedido=45
+Cozinheiro 2 preparando pedido=50
+Cozinheiro 1 terminou pedido=44
+Cozinheiro 1 preparando pedido=51
+Cozinheiro 3 terminou pedido=48
+Cozinheiro 3 preparando pedido=52
+Cozinheiro 2 terminou pedido=50
+Cozinheiro 2 preparando pedido=53
+Cozinheiro 4 terminou pedido=49
+Cozinheiro 4 preparando pedido=54
+Cozinheiro 0 terminou pedido=47
+Cozinheiro 0 preparando pedido=55
+Cozinheiro 1 terminou pedido=51
+Cozinheiro 1 preparando pedido=56
+Cozinheiro 3 terminou pedido=52
+Cozinheiro 3 preparando pedido=57
+Cozinheiro 1 terminou pedido=56
+Cozinheiro 1 preparando pedido=58
+Cozinheiro 3 terminou pedido=57
+Cozinheiro 3 preparando pedido=59
+Cozinheiro 2 terminou pedido=53
+Cozinheiro 2 preparando pedido=60
+Cozinheiro 0 terminou pedido=55
+Cozinheiro 4 terminou pedido=54
+Cozinheiro 0 preparando pedido=61
+Cozinheiro 4 preparando pedido=62
+Cozinheiro 1 terminou pedido=58
+Cozinheiro 1 preparando pedido=63
+Cozinheiro 2 terminou pedido=60
+Cozinheiro 2 preparando pedido=64
+Cozinheiro 3 terminou pedido=59
+Cozinheiro 3 preparando pedido=65
+Cozinheiro 4 terminou pedido=62
+Cozinheiro 4 preparando pedido=66
+Cozinheiro 1 terminou pedido=63
+Cozinheiro 1 preparando pedido=67
+Cozinheiro 2 terminou pedido=64
+Cozinheiro 2 preparando pedido=68
+Cozinheiro 0 terminou pedido=61
+Cozinheiro 0 preparando pedido=69
+Cozinheiro 4 terminou pedido=66
+Cozinheiro 4 preparando pedido=70
+Cozinheiro 3 terminou pedido=65
+Cozinheiro 3 preparando pedido=71
+Cozinheiro 4 terminou pedido=70
+Cozinheiro 4 preparando pedido=72
+Cozinheiro 1 terminou pedido=67
+Cozinheiro 0 terminou pedido=69
+Cozinheiro 2 terminou pedido=68
+Cozinheiro 1 preparando pedido=73
+Cozinheiro 0 preparando pedido=74
+Cozinheiro 2 preparando pedido=75
+Cozinheiro 4 terminou pedido=72
+Cozinheiro 3 terminou pedido=71
+Cozinheiro 3 preparando pedido=76
+Cozinheiro 4 preparando pedido=77
+Cozinheiro 4 terminou pedido=77
+Cozinheiro 4 preparando pedido=78
+Cozinheiro 1 terminou pedido=73
+Cozinheiro 1 preparando pedido=79
+Cozinheiro 3 terminou pedido=76
+Cozinheiro 3 preparando pedido=80
+Cozinheiro 2 terminou pedido=75
+Cozinheiro 2 preparando pedido=81
+Cozinheiro 0 terminou pedido=74
+Cozinheiro 0 preparando pedido=82
+Cozinheiro 1 terminou pedido=79
+Cozinheiro 1 preparando pedido=83
+Cozinheiro 4 terminou pedido=78
+Cozinheiro 4 preparando pedido=84
+Cozinheiro 0 terminou pedido=82
+Cozinheiro 0 preparando pedido=85
+Cozinheiro 3 terminou pedido=80
+Cozinheiro 3 preparando pedido=86
+Cozinheiro 1 terminou pedido=83
+Cozinheiro 1 preparando pedido=87
+Cozinheiro 2 terminou pedido=81
+Cozinheiro 2 preparando pedido=88
+Cozinheiro 0 terminou pedido=85
+Cozinheiro 0 preparando pedido=89
+Cozinheiro 3 terminou pedido=86
+Cozinheiro 3 preparando pedido=90
+Cozinheiro 1 terminou pedido=87
+Cozinheiro 1 preparando pedido=91
+Cozinheiro 4 terminou pedido=84
+Cozinheiro 4 preparando pedido=92
+Cozinheiro 3 terminou pedido=90
+Cozinheiro 3 preparando pedido=93
+Cozinheiro 2 terminou pedido=88
+Cozinheiro 2 preparando pedido=94
+Cozinheiro 1 terminou pedido=91
+Cozinheiro 1 preparando pedido=95
+Cozinheiro 4 terminou pedido=92
+Cozinheiro 4 preparando pedido=96
+Cozinheiro 0 terminou pedido=89
+Cozinheiro 0 preparando pedido=97
+Cozinheiro 2 terminou pedido=94
+Cozinheiro 2 preparando pedido=98
+Cozinheiro 0 terminou pedido=97
+Cozinheiro 0 preparando pedido=99
+Cozinheiro 3 terminou pedido=93
+Cozinheiro 0 terminou pedido=99
+Cozinheiro 1 terminou pedido=95
+Cozinheiro 4 terminou pedido=96
+Cozinheiro 2 terminou pedido=98
+
+Tempo total: 6.795154094696 segundos
+Cozinheiro 0 atendeu os pedidos: 0, 5, 9, 16, 23, 27, 31, 39, 47, 55, 61, 69, 74, 82, 85, 89, 97, 99
+Cozinheiro 1 atendeu os pedidos: 2, 8, 15, 19, 22, 26, 33, 40, 42, 44, 51, 56, 58, 63, 67, 73, 79, 83, 87, 91, 95
+Cozinheiro 2 atendeu os pedidos: 1, 6, 12, 14, 20, 24, 30, 35, 37, 45, 50, 53, 60, 64, 68, 75, 81, 88, 94, 98
+Cozinheiro 3 atendeu os pedidos: 3, 10, 13, 17, 21, 29, 34, 41, 43, 48, 52, 57, 59, 65, 71, 76, 80, 86, 90, 93
+Cozinheiro 4 atendeu os pedidos: 4, 7, 11, 18, 25, 28, 32, 36, 38, 46, 49, 54, 62, 66, 70, 72, 77, 78, 84, 92, 96
+
+=== VALIDAÇÃO DE INTEGRIDADE ===
+Total de pedidos processados: 100
+Esperado: 100 pedidos
+✓ Todos os pedidos foram processados
+✓ Nenhum pedido foi duplicado
+✓ Nenhum pedido foi perdido
+✓ A fila de pedidos terminou vazia
+✓ Soma matemática correta (esperada: 4950, obtida: 4950)
+================================
+
+
