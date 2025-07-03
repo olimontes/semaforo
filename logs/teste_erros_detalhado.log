@@ -1,0 +1,955 @@
+=== TESTE COM ERROS 1 ===
+=== INICIANDO VERSÃO COM ERROS DE CONCORRÊNCIA ===
+⚠️  ATENÇÃO: Este código demonstra problemas de race condition
+Você pode observar pedidos duplicados, perdidos ou inconsistências
+
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0: Fila atual tem 100 pedidos
+Cozinheiro 0: Peguei pedido 0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1: Fila atual tem 100 pedidos
+Cozinheiro 1: Peguei pedido 0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2: Fila atual tem 100 pedidos
+Cozinheiro 2: Peguei pedido 0
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3: Fila atual tem 100 pedidos
+Cozinheiro 3: Peguei pedido 0
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4: Fila atual tem 100 pedidos
+Cozinheiro 4: Peguei pedido 0
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 preparando pedido=0
+Cozinheiro 2 preparando pedido=0
+Cozinheiro 3 preparando pedido=0
+Cozinheiro 4 preparando pedido=0
+Cozinheiro 2 terminou pedido=0
+Cozinheiro 2: Fila atual tem 99 pedidos
+Cozinheiro 2: Peguei pedido 1
+Cozinheiro 2 preparando pedido=1
+Cozinheiro 4 terminou pedido=0
+Cozinheiro 4: Fila atual tem 98 pedidos
+Cozinheiro 4: Peguei pedido 2
+Cozinheiro 4 preparando pedido=2
+Cozinheiro 3 terminou pedido=0
+Cozinheiro 3: Fila atual tem 97 pedidos
+Cozinheiro 3: Peguei pedido 3
+Cozinheiro 3 preparando pedido=3
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0: Fila atual tem 96 pedidos
+Cozinheiro 0: Peguei pedido 4
+Cozinheiro 1 terminou pedido=0
+Cozinheiro 1: Fila atual tem 95 pedidos
+Cozinheiro 1: Peguei pedido 5
+Cozinheiro 0 preparando pedido=4
+Cozinheiro 1 preparando pedido=5
+Cozinheiro 2 terminou pedido=1
+Cozinheiro 2: Fila atual tem 94 pedidos
+Cozinheiro 2: Peguei pedido 6
+Cozinheiro 4 terminou pedido=2
+Cozinheiro 4: Fila atual tem 93 pedidos
+Cozinheiro 4: Peguei pedido 7
+Cozinheiro 3 terminou pedido=3
+Cozinheiro 2 preparando pedido=6
+Cozinheiro 3: Fila atual tem 93 pedidos
+Cozinheiro 3: Peguei pedido 7
+Cozinheiro 4 preparando pedido=7
+Cozinheiro 3 preparando pedido=7
+Cozinheiro 0 terminou pedido=4
+Cozinheiro 0: Fila atual tem 92 pedidos
+Cozinheiro 0: Peguei pedido 8
+Cozinheiro 1 terminou pedido=5
+Cozinheiro 1: Fila atual tem 91 pedidos
+Cozinheiro 1: Peguei pedido 9
+Cozinheiro 0 preparando pedido=8
+Cozinheiro 1 preparando pedido=9
+Cozinheiro 3 terminou pedido=7
+Cozinheiro 3: Fila atual tem 90 pedidos
+Cozinheiro 3: Peguei pedido 10
+Cozinheiro 3 preparando pedido=10
+Cozinheiro 4 terminou pedido=7
+Cozinheiro 4: Fila atual tem 89 pedidos
+Cozinheiro 4: Peguei pedido 11
+Cozinheiro 4 preparando pedido=11
+Cozinheiro 2 terminou pedido=6
+Cozinheiro 2: Fila atual tem 88 pedidos
+Cozinheiro 2: Peguei pedido 12
+Cozinheiro 2 preparando pedido=12
+Cozinheiro 2 terminou pedido=12
+Cozinheiro 2: Fila atual tem 87 pedidos
+Cozinheiro 2: Peguei pedido 13
+Cozinheiro 2 preparando pedido=13
+Cozinheiro 4 terminou pedido=11
+Cozinheiro 4: Fila atual tem 86 pedidos
+Cozinheiro 4: Peguei pedido 14
+Cozinheiro 2 terminou pedido=13
+Cozinheiro 2: Fila atual tem 86 pedidos
+Cozinheiro 2: Peguei pedido 14
+Cozinheiro 4 preparando pedido=14
+Cozinheiro 2 preparando pedido=14
+Cozinheiro 1 terminou pedido=9
+Cozinheiro 1: Fila atual tem 85 pedidos
+Cozinheiro 1: Peguei pedido 15
+Cozinheiro 1 preparando pedido=15
+Cozinheiro 0 terminou pedido=8
+Cozinheiro 0: Fila atual tem 84 pedidos
+Cozinheiro 0: Peguei pedido 16
+Cozinheiro 0 preparando pedido=16
+Cozinheiro 3 terminou pedido=10
+Cozinheiro 3: Fila atual tem 83 pedidos
+Cozinheiro 3: Peguei pedido 17
+Cozinheiro 3 preparando pedido=17
+Cozinheiro 4 terminou pedido=14
+Cozinheiro 4: Fila atual tem 82 pedidos
+Cozinheiro 4: Peguei pedido 18
+Cozinheiro 4 preparando pedido=18
+Cozinheiro 2 terminou pedido=14
+Cozinheiro 2: Fila atual tem 81 pedidos
+Cozinheiro 2: Peguei pedido 19
+Cozinheiro 2 preparando pedido=19
+Cozinheiro 2 terminou pedido=19
+Cozinheiro 2: Fila atual tem 80 pedidos
+Cozinheiro 2: Peguei pedido 20
+Cozinheiro 2 preparando pedido=20
+Cozinheiro 3 terminou pedido=17
+Cozinheiro 3: Fila atual tem 79 pedidos
+Cozinheiro 3: Peguei pedido 21
+Cozinheiro 1 terminou pedido=15
+Cozinheiro 1: Fila atual tem 78 pedidos
+Cozinheiro 1: Peguei pedido 22
+Cozinheiro 3 preparando pedido=21
+Cozinheiro 1 preparando pedido=22
+Cozinheiro 0 terminou pedido=16
+Cozinheiro 0: Fila atual tem 77 pedidos
+Cozinheiro 0: Peguei pedido 23
+Cozinheiro 0 preparando pedido=23
+Cozinheiro 4 terminou pedido=18
+Cozinheiro 4: Fila atual tem 76 pedidos
+Cozinheiro 4: Peguei pedido 24
+Cozinheiro 4 preparando pedido=24
+Cozinheiro 4 terminou pedido=24
+Cozinheiro 4: Fila atual tem 75 pedidos
+Cozinheiro 4: Peguei pedido 25
+Cozinheiro 4 preparando pedido=25
+Cozinheiro 2 terminou pedido=20
+Cozinheiro 2: Fila atual tem 74 pedidos
+Cozinheiro 2: Peguei pedido 26
+Cozinheiro 3 terminou pedido=21
+Cozinheiro 3: Fila atual tem 73 pedidos
+Cozinheiro 3: Peguei pedido 27
+Cozinheiro 2 preparando pedido=26
+Cozinheiro 3 preparando pedido=27
+Cozinheiro 0 terminou pedido=23
+Cozinheiro 0: Fila atual tem 72 pedidos
+Cozinheiro 0: Peguei pedido 28
+Cozinheiro 0 preparando pedido=28
+Cozinheiro 1 terminou pedido=22
+Cozinheiro 1: Fila atual tem 71 pedidos
+Cozinheiro 1: Peguei pedido 29
+Cozinheiro 1 preparando pedido=29
+Cozinheiro 4 terminou pedido=25
+Cozinheiro 4: Fila atual tem 70 pedidos
+Cozinheiro 4: Peguei pedido 30
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 2 terminou pedido=26
+Cozinheiro 2: Fila atual tem 69 pedidos
+Cozinheiro 2: Peguei pedido 31
+Cozinheiro 3 terminou pedido=27
+Cozinheiro 3: Fila atual tem 69 pedidos
+Cozinheiro 3: Peguei pedido 31
+Cozinheiro 2 preparando pedido=31
+Cozinheiro 3 preparando pedido=31
+Cozinheiro 2 terminou pedido=31
+Cozinheiro 2: Fila atual tem 68 pedidos
+Cozinheiro 2: Peguei pedido 32
+Cozinheiro 2 preparando pedido=32
+Cozinheiro 3 terminou pedido=31
+Cozinheiro 3: Fila atual tem 67 pedidos
+Cozinheiro 3: Peguei pedido 33
+Cozinheiro 3 preparando pedido=33
+Cozinheiro 0 terminou pedido=28
+Cozinheiro 0: Fila atual tem 66 pedidos
+Cozinheiro 0: Peguei pedido 34
+Cozinheiro 0 preparando pedido=34
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4: Fila atual tem 65 pedidos
+Cozinheiro 4: Peguei pedido 35
+Cozinheiro 4 preparando pedido=35
+Cozinheiro 1 terminou pedido=29
+Cozinheiro 1: Fila atual tem 64 pedidos
+Cozinheiro 1: Peguei pedido 36
+Cozinheiro 1 preparando pedido=36
+Cozinheiro 0 terminou pedido=34
+Cozinheiro 0: Fila atual tem 63 pedidos
+Cozinheiro 0: Peguei pedido 37
+Cozinheiro 0 preparando pedido=37
+Cozinheiro 2 terminou pedido=32
+Cozinheiro 2: Fila atual tem 62 pedidos
+Cozinheiro 2: Peguei pedido 38
+Cozinheiro 2 preparando pedido=38
+Cozinheiro 3 terminou pedido=33
+Cozinheiro 3: Fila atual tem 61 pedidos
+Cozinheiro 3: Peguei pedido 39
+Cozinheiro 4 terminou pedido=35
+Cozinheiro 4: Fila atual tem 61 pedidos
+Cozinheiro 4: Peguei pedido 39
+Cozinheiro 0 terminou pedido=37
+Cozinheiro 0: Fila atual tem 60 pedidos
+Cozinheiro 0: Peguei pedido 40
+Cozinheiro 3 preparando pedido=39
+Cozinheiro 4 preparando pedido=39
+Cozinheiro 0 preparando pedido=40
+Cozinheiro 2 terminou pedido=38
+Cozinheiro 2: Fila atual tem 59 pedidos
+Cozinheiro 2: Peguei pedido 41
+Cozinheiro 2 preparando pedido=41
+Cozinheiro 1 terminou pedido=36
+Cozinheiro 1: Fila atual tem 58 pedidos
+Cozinheiro 1: Peguei pedido 42
+Cozinheiro 1 preparando pedido=42
+Cozinheiro 0 terminou pedido=40
+Cozinheiro 0: Fila atual tem 57 pedidos
+Cozinheiro 0: Peguei pedido 43
+Cozinheiro 0 preparando pedido=43
+Cozinheiro 2 terminou pedido=41
+Cozinheiro 2: Fila atual tem 56 pedidos
+Cozinheiro 2: Peguei pedido 44
+Cozinheiro 2 preparando pedido=44
+Cozinheiro 4 terminou pedido=39
+Cozinheiro 4: Fila atual tem 55 pedidos
+Cozinheiro 4: Peguei pedido 45
+Cozinheiro 4 preparando pedido=45
+Cozinheiro 3 terminou pedido=39
+Cozinheiro 3: Fila atual tem 54 pedidos
+Cozinheiro 3: Peguei pedido 46
+Cozinheiro 0 terminou pedido=43
+Cozinheiro 0: Fila atual tem 53 pedidos
+Cozinheiro 0: Peguei pedido 47
+Cozinheiro 3 preparando pedido=46
+Cozinheiro 0 preparando pedido=47
+Cozinheiro 2 terminou pedido=44
+Cozinheiro 2: Fila atual tem 52 pedidos
+Cozinheiro 2: Peguei pedido 48
+Cozinheiro 2 preparando pedido=48
+Cozinheiro 1 terminou pedido=42
+Cozinheiro 1: Fila atual tem 51 pedidos
+Cozinheiro 1: Peguei pedido 49
+Cozinheiro 3 terminou pedido=46
+Cozinheiro 3: Fila atual tem 50 pedidos
+Cozinheiro 3: Peguei pedido 50
+Cozinheiro 1 preparando pedido=49
+Cozinheiro 3 preparando pedido=50
+Cozinheiro 0 terminou pedido=47
+Cozinheiro 0: Fila atual tem 49 pedidos
+Cozinheiro 0: Peguei pedido 51
+Cozinheiro 0 preparando pedido=51
+Cozinheiro 4 terminou pedido=45
+Cozinheiro 4: Fila atual tem 48 pedidos
+Cozinheiro 4: Peguei pedido 52
+Cozinheiro 4 preparando pedido=52
+Cozinheiro 1 terminou pedido=49
+Cozinheiro 1: Fila atual tem 47 pedidos
+Cozinheiro 1: Peguei pedido 53
+Cozinheiro 1 preparando pedido=53
+Cozinheiro 3 terminou pedido=50
+Cozinheiro 3: Fila atual tem 46 pedidos
+Cozinheiro 3: Peguei pedido 54
+Cozinheiro 2 terminou pedido=48
+Cozinheiro 2: Fila atual tem 45 pedidos
+Cozinheiro 2: Peguei pedido 55
+Cozinheiro 3 preparando pedido=54
+Cozinheiro 2 preparando pedido=55
+Cozinheiro 4 terminou pedido=52
+Cozinheiro 4: Fila atual tem 44 pedidos
+Cozinheiro 4: Peguei pedido 56
+Cozinheiro 4 preparando pedido=56
+Cozinheiro 3 terminou pedido=54
+Cozinheiro 3: Fila atual tem 43 pedidos
+Cozinheiro 3: Peguei pedido 57
+Cozinheiro 3 preparando pedido=57
+Cozinheiro 0 terminou pedido=51
+Cozinheiro 0: Fila atual tem 42 pedidos
+Cozinheiro 0: Peguei pedido 58
+Cozinheiro 0 preparando pedido=58
+Cozinheiro 1 terminou pedido=53
+Cozinheiro 1: Fila atual tem 41 pedidos
+Cozinheiro 1: Peguei pedido 59
+Cozinheiro 1 preparando pedido=59
+Cozinheiro 2 terminou pedido=55
+Cozinheiro 2: Fila atual tem 40 pedidos
+Cozinheiro 2: Peguei pedido 60
+Cozinheiro 2 preparando pedido=60
+Cozinheiro 0 terminou pedido=58
+Cozinheiro 0: Fila atual tem 39 pedidos
+Cozinheiro 0: Peguei pedido 61
+Cozinheiro 0 preparando pedido=61
+Cozinheiro 4 terminou pedido=56
+Cozinheiro 4: Fila atual tem 38 pedidos
+Cozinheiro 4: Peguei pedido 62
+Cozinheiro 4 preparando pedido=62
+Cozinheiro 1 terminou pedido=59
+Cozinheiro 1: Fila atual tem 37 pedidos
+Cozinheiro 1: Peguei pedido 63
+Cozinheiro 3 terminou pedido=57
+PHP Warning:  shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 37
+
+Warning: shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 37
+Cozinheiro 3: Fila vazia, parando
+Cozinheiro 1 preparando pedido=63
+Cozinheiro 2 terminou pedido=60
+Cozinheiro 2: Fila não existe mais
+Cozinheiro 4 terminou pedido=62
+Cozinheiro 4: Fila não existe mais
+Cozinheiro 1 terminou pedido=63
+Cozinheiro 1: Fila não existe mais
+Cozinheiro 0 terminou pedido=61
+Cozinheiro 0: Fila não existe mais
+
+Tempo total: 4.9785280227661 segundos
+
+=== RESULTADOS (PROVAVELMENTE COM ERROS) ===
+Cozinheiro 0 atendeu os pedidos: 4, 8, 16, 23, 28, 34, 37, 40, 43, 47, 51, 58, 61
+Cozinheiro 1 atendeu os pedidos: 5, 9, 15, 22, 29, 36, 42, 49, 53, 59, 63
+Cozinheiro 2 atendeu os pedidos: 1, 6, 12, 13, 14, 19, 20, 26, 32, 38, 41, 44, 48, 55, 60
+Cozinheiro 3 atendeu os pedidos: 3, 7, 10, 17, 21, 27, 31, 33, 46, 50, 54, 57
+Cozinheiro 4 atendeu os pedidos: 0, 2, 11, 14, 18, 24, 25, 30, 35, 39, 45, 52, 56, 62
+
+=== ANÁLISE DOS ERROS ENCONTRADOS ===
+Total de pedidos processados: 65
+Esperado: 100 pedidos
+❌ ERRO: Nem todos os pedidos foram processados!
+   → Pedidos perdidos: 35
+❌ ERRO: Foram encontrados 1 pedidos duplicados!
+   → Pedidos que foram duplicados: 14
+❌ ERRO: Pedidos completamente perdidos: 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
+❌ ERRO: Soma matemática incorreta!
+   → Esperada: 4950, Obtida: 2030
+   → Diferença: -2920
+
+=== EXPLICAÇÃO DOS PROBLEMAS ===
+Os erros acima ocorreram devido à ausência de controle de concorrência:
+
+1. RACE CONDITION: Múltiplos processos acessam a mesma memória simultaneamente
+2. OPERAÇÕES NÃO ATÔMICAS: Leitura e escrita não são protegidas
+3. INCONSISTÊNCIA DE DADOS: Estado da fila fica corrompido
+4. PEDIDOS DUPLICADOS: Dois cozinheiros pegam o mesmo pedido
+5. PEDIDOS PERDIDOS: Atualizações são sobrescritas
+
+SOLUÇÃO: Usar semáforos para proteger a região crítica!
+
+
+=== TESTE COM ERROS 2 ===
+=== INICIANDO VERSÃO COM ERROS DE CONCORRÊNCIA ===
+⚠️  ATENÇÃO: Este código demonstra problemas de race condition
+Você pode observar pedidos duplicados, perdidos ou inconsistências
+
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0: Fila atual tem 100 pedidos
+Cozinheiro 0: Peguei pedido 0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1: Fila atual tem 100 pedidos
+Cozinheiro 1: Peguei pedido 0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2: Fila atual tem 100 pedidos
+Cozinheiro 2: Peguei pedido 0
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3: Fila atual tem 100 pedidos
+Cozinheiro 3: Peguei pedido 0
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4: Fila atual tem 100 pedidos
+Cozinheiro 4: Peguei pedido 0
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 preparando pedido=0
+Cozinheiro 2 preparando pedido=0
+Cozinheiro 3 preparando pedido=0
+Cozinheiro 4 preparando pedido=0
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0: Fila não existe mais
+Cozinheiro 1 terminou pedido=0
+Cozinheiro 1: Fila não existe mais
+Cozinheiro 4 terminou pedido=0
+Cozinheiro 4: Fila não existe mais
+Cozinheiro 3 terminou pedido=0
+Cozinheiro 3: Fila não existe mais
+Cozinheiro 2 terminou pedido=0
+Cozinheiro 2: Fila não existe mais
+
+Tempo total: 0.50100088119507 segundos
+
+=== RESULTADOS (PROVAVELMENTE COM ERROS) ===
+❌ ERRO CRÍTICO: Não foi possível ler os dados finais!
+   → Provavelmente houve corrupção na memória compartilhada
+
+=== EXPLICAÇÃO DOS PROBLEMAS ===
+Os erros acima ocorreram devido à ausência de controle de concorrência:
+
+1. RACE CONDITION: Múltiplos processos acessam a mesma memória simultaneamente
+2. OPERAÇÕES NÃO ATÔMICAS: Leitura e escrita não são protegidas
+3. INCONSISTÊNCIA DE DADOS: Estado da fila fica corrompido
+4. PEDIDOS DUPLICADOS: Dois cozinheiros pegam o mesmo pedido
+5. PEDIDOS PERDIDOS: Atualizações são sobrescritas
+
+SOLUÇÃO: Usar semáforos para proteger a região crítica!
+
+
+=== TESTE COM ERROS 3 ===
+=== INICIANDO VERSÃO COM ERROS DE CONCORRÊNCIA ===
+⚠️  ATENÇÃO: Este código demonstra problemas de race condition
+Você pode observar pedidos duplicados, perdidos ou inconsistências
+
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0: Fila atual tem 100 pedidos
+Cozinheiro 0: Peguei pedido 0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1: Fila atual tem 100 pedidos
+Cozinheiro 1: Peguei pedido 0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2: Fila atual tem 100 pedidos
+Cozinheiro 2: Peguei pedido 0
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3: Fila atual tem 100 pedidos
+Cozinheiro 3: Peguei pedido 0
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4: Fila atual tem 100 pedidos
+Cozinheiro 4: Peguei pedido 0
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 1 preparando pedido=0
+Cozinheiro 2 preparando pedido=0
+Cozinheiro 3 preparando pedido=0
+Cozinheiro 4 preparando pedido=0
+Cozinheiro 2 terminou pedido=0
+Cozinheiro 2: Fila atual tem 99 pedidos
+Cozinheiro 2: Peguei pedido 1
+Cozinheiro 2 preparando pedido=1
+Cozinheiro 4 terminou pedido=0
+Cozinheiro 4: Fila atual tem 98 pedidos
+Cozinheiro 4: Peguei pedido 2
+Cozinheiro 4 preparando pedido=2
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0: Fila atual tem 97 pedidos
+Cozinheiro 0: Peguei pedido 3
+Cozinheiro 0 preparando pedido=3
+Cozinheiro 2 terminou pedido=1
+Cozinheiro 2: Fila atual tem 96 pedidos
+Cozinheiro 2: Peguei pedido 4
+Cozinheiro 2 preparando pedido=4
+Cozinheiro 4 terminou pedido=2
+Cozinheiro 4: Fila atual tem 95 pedidos
+Cozinheiro 4: Peguei pedido 5
+Cozinheiro 4 preparando pedido=5
+Cozinheiro 0 terminou pedido=3
+Cozinheiro 1 terminou pedido=0
+Cozinheiro 0: Fila atual tem 94 pedidos
+Cozinheiro 0: Peguei pedido 6
+Cozinheiro 1: Fila atual tem 94 pedidos
+Cozinheiro 1: Peguei pedido 6
+Cozinheiro 1 preparando pedido=6
+Cozinheiro 0 preparando pedido=6
+Cozinheiro 3 terminou pedido=0
+Cozinheiro 3: Fila atual tem 93 pedidos
+Cozinheiro 3: Peguei pedido 7
+Cozinheiro 3 preparando pedido=7
+Cozinheiro 2 terminou pedido=4
+Cozinheiro 2: Fila atual tem 92 pedidos
+Cozinheiro 2: Peguei pedido 8
+Cozinheiro 2 preparando pedido=8
+Cozinheiro 4 terminou pedido=5
+Cozinheiro 4: Fila atual tem 91 pedidos
+Cozinheiro 4: Peguei pedido 9
+Cozinheiro 4 preparando pedido=9
+Cozinheiro 1 terminou pedido=6
+Cozinheiro 1: Fila atual tem 90 pedidos
+Cozinheiro 1: Peguei pedido 10
+Cozinheiro 4 terminou pedido=9
+Cozinheiro 4: Fila atual tem 89 pedidos
+Cozinheiro 4: Peguei pedido 11
+Cozinheiro 1 preparando pedido=10
+Cozinheiro 4 preparando pedido=11
+Cozinheiro 0 terminou pedido=6
+Cozinheiro 0: Fila atual tem 88 pedidos
+Cozinheiro 0: Peguei pedido 12
+Cozinheiro 0 preparando pedido=12
+Cozinheiro 3 terminou pedido=7
+Cozinheiro 3: Fila atual tem 87 pedidos
+Cozinheiro 3: Peguei pedido 13
+Cozinheiro 3 preparando pedido=13
+Cozinheiro 2 terminou pedido=8
+Cozinheiro 2: Fila atual tem 86 pedidos
+Cozinheiro 2: Peguei pedido 14
+Cozinheiro 2 preparando pedido=14
+Cozinheiro 1 terminou pedido=10
+Cozinheiro 1: Fila atual tem 85 pedidos
+Cozinheiro 1: Peguei pedido 15
+Cozinheiro 1 preparando pedido=15
+Cozinheiro 3 terminou pedido=13
+Cozinheiro 3: Fila atual tem 84 pedidos
+Cozinheiro 3: Peguei pedido 16
+Cozinheiro 3 preparando pedido=16
+Cozinheiro 0 terminou pedido=12
+Cozinheiro 0: Fila atual tem 83 pedidos
+Cozinheiro 0: Peguei pedido 17
+Cozinheiro 0 preparando pedido=17
+Cozinheiro 1 terminou pedido=15
+Cozinheiro 1: Fila atual tem 82 pedidos
+Cozinheiro 1: Peguei pedido 18
+Cozinheiro 1 preparando pedido=18
+Cozinheiro 4 terminou pedido=11
+Cozinheiro 4: Fila atual tem 81 pedidos
+Cozinheiro 4: Peguei pedido 19
+Cozinheiro 4 preparando pedido=19
+Cozinheiro 2 terminou pedido=14
+Cozinheiro 2: Fila atual tem 80 pedidos
+Cozinheiro 2: Peguei pedido 20
+Cozinheiro 2 preparando pedido=20
+Cozinheiro 4 terminou pedido=19
+Cozinheiro 4: Fila atual tem 79 pedidos
+Cozinheiro 4: Peguei pedido 21
+Cozinheiro 4 preparando pedido=21
+Cozinheiro 1 terminou pedido=18
+Cozinheiro 1: Fila atual tem 78 pedidos
+Cozinheiro 1: Peguei pedido 22
+Cozinheiro 1 preparando pedido=22
+Cozinheiro 0 terminou pedido=17
+Cozinheiro 0: Fila atual tem 77 pedidos
+Cozinheiro 0: Peguei pedido 23
+Cozinheiro 0 preparando pedido=23
+Cozinheiro 2 terminou pedido=20
+Cozinheiro 2: Fila atual tem 76 pedidos
+Cozinheiro 2: Peguei pedido 24
+Cozinheiro 2 preparando pedido=24
+Cozinheiro 3 terminou pedido=16
+Cozinheiro 3: Fila atual tem 75 pedidos
+Cozinheiro 3: Peguei pedido 25
+Cozinheiro 3 preparando pedido=25
+Cozinheiro 4 terminou pedido=21
+Cozinheiro 4: Fila atual tem 74 pedidos
+Cozinheiro 4: Peguei pedido 26
+Cozinheiro 4 preparando pedido=26
+Cozinheiro 0 terminou pedido=23
+Cozinheiro 0: Fila atual tem 73 pedidos
+Cozinheiro 0: Peguei pedido 27
+Cozinheiro 0 preparando pedido=27
+Cozinheiro 2 terminou pedido=24
+Cozinheiro 2: Fila atual tem 72 pedidos
+Cozinheiro 2: Peguei pedido 28
+Cozinheiro 0 terminou pedido=27
+Cozinheiro 0: Fila atual tem 71 pedidos
+Cozinheiro 0: Peguei pedido 29
+Cozinheiro 2 preparando pedido=28
+Cozinheiro 0 preparando pedido=29
+Cozinheiro 4 terminou pedido=26
+Cozinheiro 4: Fila atual tem 70 pedidos
+Cozinheiro 4: Peguei pedido 30
+Cozinheiro 1 terminou pedido=22
+Cozinheiro 1: Fila atual tem 69 pedidos
+Cozinheiro 1: Peguei pedido 31
+Cozinheiro 4 preparando pedido=30
+Cozinheiro 1 preparando pedido=31
+Cozinheiro 2 terminou pedido=28
+Cozinheiro 2: Fila atual tem 68 pedidos
+Cozinheiro 2: Peguei pedido 32
+Cozinheiro 2 preparando pedido=32
+Cozinheiro 3 terminou pedido=25
+Cozinheiro 3: Fila atual tem 67 pedidos
+Cozinheiro 3: Peguei pedido 33
+Cozinheiro 3 preparando pedido=33
+Cozinheiro 4 terminou pedido=30
+Cozinheiro 4: Fila atual tem 66 pedidos
+Cozinheiro 4: Peguei pedido 34
+Cozinheiro 4 preparando pedido=34
+Cozinheiro 0 terminou pedido=29
+Cozinheiro 0: Fila atual tem 65 pedidos
+Cozinheiro 0: Peguei pedido 35
+Cozinheiro 0 preparando pedido=35
+Cozinheiro 1 terminou pedido=31
+Cozinheiro 1: Fila atual tem 64 pedidos
+Cozinheiro 1: Peguei pedido 36
+Cozinheiro 1 preparando pedido=36
+Cozinheiro 2 terminou pedido=32
+Cozinheiro 2: Fila atual tem 63 pedidos
+Cozinheiro 2: Peguei pedido 37
+Cozinheiro 2 preparando pedido=37
+Cozinheiro 0 terminou pedido=35
+Cozinheiro 0: Fila atual tem 62 pedidos
+Cozinheiro 0: Peguei pedido 38
+Cozinheiro 1 terminou pedido=36
+Cozinheiro 1: Fila atual tem 62 pedidos
+Cozinheiro 1: Peguei pedido 38
+Cozinheiro 0 preparando pedido=38
+Cozinheiro 1 preparando pedido=38
+Cozinheiro 4 terminou pedido=34
+Cozinheiro 4: Fila atual tem 61 pedidos
+Cozinheiro 4: Peguei pedido 39
+Cozinheiro 4 preparando pedido=39
+Cozinheiro 1 terminou pedido=38
+Cozinheiro 1: Fila atual tem 60 pedidos
+Cozinheiro 1: Peguei pedido 40
+Cozinheiro 1 preparando pedido=40
+Cozinheiro 3 terminou pedido=33
+Cozinheiro 3: Fila atual tem 59 pedidos
+Cozinheiro 3: Peguei pedido 41
+Cozinheiro 2 terminou pedido=37
+Cozinheiro 2: Fila atual tem 59 pedidos
+Cozinheiro 2: Peguei pedido 41
+Cozinheiro 3 preparando pedido=41
+Cozinheiro 2 preparando pedido=41
+Cozinheiro 4 terminou pedido=39
+Cozinheiro 4: Fila atual tem 58 pedidos
+Cozinheiro 4: Peguei pedido 42
+Cozinheiro 0 terminou pedido=38
+Cozinheiro 0: Fila atual tem 58 pedidos
+Cozinheiro 0: Peguei pedido 42
+Cozinheiro 4 preparando pedido=42
+Cozinheiro 3 terminou pedido=41
+Cozinheiro 3: Fila atual tem 57 pedidos
+Cozinheiro 3: Peguei pedido 43
+Cozinheiro 0 preparando pedido=42
+Cozinheiro 3 preparando pedido=43
+Cozinheiro 1 terminou pedido=40
+Cozinheiro 1: Fila atual tem 56 pedidos
+Cozinheiro 1: Peguei pedido 44
+Cozinheiro 1 preparando pedido=44
+Cozinheiro 2 terminou pedido=41
+Cozinheiro 2: Fila atual tem 55 pedidos
+Cozinheiro 2: Peguei pedido 45
+Cozinheiro 3 terminou pedido=43
+Cozinheiro 3: Fila atual tem 55 pedidos
+Cozinheiro 3: Peguei pedido 45
+Cozinheiro 2 preparando pedido=45
+Cozinheiro 3 preparando pedido=45
+Cozinheiro 4 terminou pedido=42
+Cozinheiro 4: Fila atual tem 54 pedidos
+Cozinheiro 4: Peguei pedido 46
+Cozinheiro 0 terminou pedido=42
+Cozinheiro 0: Fila atual tem 53 pedidos
+Cozinheiro 0: Peguei pedido 47
+Cozinheiro 4 preparando pedido=46
+Cozinheiro 0 preparando pedido=47
+Cozinheiro 2 terminou pedido=45
+Cozinheiro 2: Fila atual tem 52 pedidos
+Cozinheiro 2: Peguei pedido 48
+Cozinheiro 2 preparando pedido=48
+Cozinheiro 1 terminou pedido=44
+Cozinheiro 1: Fila atual tem 51 pedidos
+Cozinheiro 1: Peguei pedido 49
+Cozinheiro 1 preparando pedido=49
+Cozinheiro 3 terminou pedido=45
+Cozinheiro 3: Fila atual tem 50 pedidos
+Cozinheiro 3: Peguei pedido 50
+Cozinheiro 3 preparando pedido=50
+Cozinheiro 2 terminou pedido=48
+Cozinheiro 2: Fila atual tem 49 pedidos
+Cozinheiro 2: Peguei pedido 51
+Cozinheiro 4 terminou pedido=46
+Cozinheiro 4: Fila atual tem 48 pedidos
+Cozinheiro 4: Peguei pedido 52
+Cozinheiro 2 preparando pedido=51
+Cozinheiro 1 terminou pedido=49
+Cozinheiro 1: Fila atual tem 48 pedidos
+Cozinheiro 1: Peguei pedido 52
+Cozinheiro 4 preparando pedido=52
+Cozinheiro 1 preparando pedido=52
+Cozinheiro 3 terminou pedido=50
+Cozinheiro 3: Fila atual tem 47 pedidos
+Cozinheiro 3: Peguei pedido 53
+Cozinheiro 3 preparando pedido=53
+Cozinheiro 0 terminou pedido=47
+Cozinheiro 0: Fila atual tem 46 pedidos
+Cozinheiro 0: Peguei pedido 54
+Cozinheiro 0 preparando pedido=54
+Cozinheiro 3 terminou pedido=53
+Cozinheiro 3: Fila atual tem 45 pedidos
+Cozinheiro 3: Peguei pedido 55
+Cozinheiro 4 terminou pedido=52
+Cozinheiro 4: Fila atual tem 45 pedidos
+Cozinheiro 4: Peguei pedido 55
+Cozinheiro 3 preparando pedido=55
+Cozinheiro 4 preparando pedido=55
+Cozinheiro 2 terminou pedido=51
+Cozinheiro 2: Fila atual tem 44 pedidos
+Cozinheiro 2: Peguei pedido 56
+Cozinheiro 2 preparando pedido=56
+Cozinheiro 4 terminou pedido=55
+Cozinheiro 4: Fila atual tem 43 pedidos
+Cozinheiro 4: Peguei pedido 57
+Cozinheiro 3 terminou pedido=55
+Cozinheiro 3: Fila atual tem 43 pedidos
+Cozinheiro 3: Peguei pedido 57
+Cozinheiro 1 terminou pedido=52
+Cozinheiro 1: Fila atual tem 43 pedidos
+Cozinheiro 1: Peguei pedido 57
+Cozinheiro 4 preparando pedido=57
+Cozinheiro 3 preparando pedido=57
+Cozinheiro 1 preparando pedido=57
+Cozinheiro 0 terminou pedido=54
+Cozinheiro 0: Fila atual tem 42 pedidos
+Cozinheiro 0: Peguei pedido 58
+Cozinheiro 0 preparando pedido=58
+Cozinheiro 4 terminou pedido=57
+Cozinheiro 4: Fila atual tem 41 pedidos
+Cozinheiro 4: Peguei pedido 59
+Cozinheiro 4 preparando pedido=59
+Cozinheiro 1 terminou pedido=57
+Cozinheiro 1: Fila atual tem 40 pedidos
+Cozinheiro 1: Peguei pedido 60
+Cozinheiro 1 preparando pedido=60
+Cozinheiro 2 terminou pedido=56
+Cozinheiro 2: Fila atual tem 39 pedidos
+Cozinheiro 2: Peguei pedido 61
+Cozinheiro 2 preparando pedido=61
+Cozinheiro 0 terminou pedido=58
+Cozinheiro 0: Fila atual tem 38 pedidos
+Cozinheiro 0: Peguei pedido 62
+Cozinheiro 3 terminou pedido=57
+Cozinheiro 3: Fila atual tem 38 pedidos
+Cozinheiro 3: Peguei pedido 62
+Cozinheiro 0 preparando pedido=62
+Cozinheiro 3 preparando pedido=62
+Cozinheiro 4 terminou pedido=59
+Cozinheiro 4: Fila atual tem 37 pedidos
+Cozinheiro 4: Peguei pedido 63
+Cozinheiro 4 preparando pedido=63
+Cozinheiro 2 terminou pedido=61
+Cozinheiro 2: Fila atual tem 36 pedidos
+Cozinheiro 2: Peguei pedido 64
+Cozinheiro 2 preparando pedido=64
+Cozinheiro 4 terminou pedido=63
+Cozinheiro 4: Fila atual tem 35 pedidos
+Cozinheiro 4: Peguei pedido 65
+Cozinheiro 4 preparando pedido=65
+Cozinheiro 1 terminou pedido=60
+Cozinheiro 1: Fila atual tem 34 pedidos
+Cozinheiro 1: Peguei pedido 66
+Cozinheiro 3 terminou pedido=62
+Cozinheiro 3: Fila atual tem 34 pedidos
+Cozinheiro 3: Peguei pedido 66
+Cozinheiro 1 preparando pedido=66
+Cozinheiro 3 preparando pedido=66
+Cozinheiro 0 terminou pedido=62
+Cozinheiro 0: Fila atual tem 33 pedidos
+Cozinheiro 0: Peguei pedido 67
+Cozinheiro 0 preparando pedido=67
+Cozinheiro 3 terminou pedido=66
+Cozinheiro 3: Fila atual tem 32 pedidos
+Cozinheiro 3: Peguei pedido 68
+Cozinheiro 3 preparando pedido=68
+Cozinheiro 4 terminou pedido=65
+Cozinheiro 2 terminou pedido=64
+Cozinheiro 4: Fila atual tem 31 pedidos
+Cozinheiro 4: Peguei pedido 69
+Cozinheiro 2: Fila atual tem 31 pedidos
+Cozinheiro 2: Peguei pedido 69
+Cozinheiro 3 terminou pedido=68
+Cozinheiro 3: Fila não existe mais
+Cozinheiro 1 terminou pedido=66
+Cozinheiro 1: Fila não existe mais
+Cozinheiro 0 terminou pedido=67
+Cozinheiro 0: Fila não existe mais
+
+Tempo total: 5.3417711257935 segundos
+
+=== RESULTADOS (PROVAVELMENTE COM ERROS) ===
+❌ ERRO CRÍTICO: Não foi possível ler os dados finais!
+   → Provavelmente houve corrupção na memória compartilhada
+
+=== EXPLICAÇÃO DOS PROBLEMAS ===
+Os erros acima ocorreram devido à ausência de controle de concorrência:
+
+1. RACE CONDITION: Múltiplos processos acessam a mesma memória simultaneamente
+2. OPERAÇÕES NÃO ATÔMICAS: Leitura e escrita não são protegidas
+3. INCONSISTÊNCIA DE DADOS: Estado da fila fica corrompido
+4. PEDIDOS DUPLICADOS: Dois cozinheiros pegam o mesmo pedido
+5. PEDIDOS PERDIDOS: Atualizações são sobrescritas
+
+SOLUÇÃO: Usar semáforos para proteger a região crítica!
+
+
+=== TESTE COM ERROS 4 ===
+=== INICIANDO VERSÃO COM ERROS DE CONCORRÊNCIA ===
+⚠️  ATENÇÃO: Este código demonstra problemas de race condition
+Você pode observar pedidos duplicados, perdidos ou inconsistências
+
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0: Fila atual tem 100 pedidos
+Cozinheiro 0: Peguei pedido 0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1: Fila atual tem 100 pedidos
+Cozinheiro 1: Peguei pedido 0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2: Fila atual tem 100 pedidos
+Cozinheiro 2: Peguei pedido 0
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3: Fila atual tem 100 pedidos
+Cozinheiro 3: Peguei pedido 0
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4: Fila atual tem 100 pedidos
+Cozinheiro 4: Peguei pedido 0
+PHP Warning:  shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Warning: shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+
+Warning: shm_put_var(): Not enough shared memory left in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 61
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Warning:  shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+
+Warning: shm_get_var(): Variable key 2 doesn't exist in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 65
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+PHP Deprecated:  Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+
+Deprecated: Automatic conversion of false to array is deprecated in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 66
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 2 preparando pedido=0
+Cozinheiro 1 preparando pedido=0
+Cozinheiro 3 preparando pedido=0
+Cozinheiro 4 preparando pedido=0
+Cozinheiro 2 terminou pedido=0
+Cozinheiro 2: Fila não existe mais
+Cozinheiro 4 terminou pedido=0
+Cozinheiro 4: Fila não existe mais
+Cozinheiro 3 terminou pedido=0
+Cozinheiro 3: Fila não existe mais
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0: Fila não existe mais
+Cozinheiro 1 terminou pedido=0
+Cozinheiro 1: Fila não existe mais
+
+Tempo total: 0.49298906326294 segundos
+
+=== RESULTADOS (PROVAVELMENTE COM ERROS) ===
+❌ ERRO CRÍTICO: Não foi possível ler os dados finais!
+   → Provavelmente houve corrupção na memória compartilhada
+
+=== EXPLICAÇÃO DOS PROBLEMAS ===
+Os erros acima ocorreram devido à ausência de controle de concorrência:
+
+1. RACE CONDITION: Múltiplos processos acessam a mesma memória simultaneamente
+2. OPERAÇÕES NÃO ATÔMICAS: Leitura e escrita não são protegidas
+3. INCONSISTÊNCIA DE DADOS: Estado da fila fica corrompido
+4. PEDIDOS DUPLICADOS: Dois cozinheiros pegam o mesmo pedido
+5. PEDIDOS PERDIDOS: Atualizações são sobrescritas
+
+SOLUÇÃO: Usar semáforos para proteger a região crítica!
+
+
+=== TESTE COM ERROS 5 ===
+=== INICIANDO VERSÃO COM ERROS DE CONCORRÊNCIA ===
+⚠️  ATENÇÃO: Este código demonstra problemas de race condition
+Você pode observar pedidos duplicados, perdidos ou inconsistências
+
+Cozinheiro 0 pronto para receber pedidos!
+Cozinheiro 0: Fila atual tem 100 pedidos
+Cozinheiro 0: Peguei pedido 0
+Cozinheiro 1 pronto para receber pedidos!
+Cozinheiro 1: Fila atual tem 100 pedidos
+Cozinheiro 1: Peguei pedido 0
+Cozinheiro 2 pronto para receber pedidos!
+Cozinheiro 2: Fila atual tem 100 pedidos
+Cozinheiro 2: Peguei pedido 0
+Cozinheiro 3 pronto para receber pedidos!
+Cozinheiro 3: Fila atual tem 100 pedidos
+Cozinheiro 3: Peguei pedido 0
+Cozinheiro 4 pronto para receber pedidos!
+Cozinheiro 4: Fila atual tem 100 pedidos
+Cozinheiro 4: Peguei pedido 0
+Cozinheiro 2 preparando pedido=0
+Cozinheiro 3 preparando pedido=0
+Cozinheiro 1 preparando pedido=0
+Cozinheiro 0 preparando pedido=0
+Cozinheiro 4 preparando pedido=0
+Cozinheiro 3 terminou pedido=0
+PHP Warning:  shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 37
+
+Warning: shm_get_var(): Variable data in shared memory is corrupted in /Users/dartesoul/facul/paradigmas/semaforo/restaurante_com_erros.php on line 37
+Cozinheiro 3: Fila vazia, parando
+Cozinheiro 4 terminou pedido=0
+Cozinheiro 4: Fila não existe mais
+Cozinheiro 2 terminou pedido=0
+Cozinheiro 2: Fila não existe mais
+Cozinheiro 0 terminou pedido=0
+Cozinheiro 0: Fila não existe mais
+Cozinheiro 1 terminou pedido=0
+Cozinheiro 1: Fila não existe mais
+
+Tempo total: 0.36428189277649 segundos
+
+=== RESULTADOS (PROVAVELMENTE COM ERROS) ===
+❌ ERRO CRÍTICO: Não foi possível ler os dados finais!
+   → Provavelmente houve corrupção na memória compartilhada
+
+=== EXPLICAÇÃO DOS PROBLEMAS ===
+Os erros acima ocorreram devido à ausência de controle de concorrência:
+
+1. RACE CONDITION: Múltiplos processos acessam a mesma memória simultaneamente
+2. OPERAÇÕES NÃO ATÔMICAS: Leitura e escrita não são protegidas
+3. INCONSISTÊNCIA DE DADOS: Estado da fila fica corrompido
+4. PEDIDOS DUPLICADOS: Dois cozinheiros pegam o mesmo pedido
+5. PEDIDOS PERDIDOS: Atualizações são sobrescritas
+
+SOLUÇÃO: Usar semáforos para proteger a região crítica!
+
+
